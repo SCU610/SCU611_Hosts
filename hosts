@@ -13,14 +13,23 @@
 #       38.25.63.10     x.acme.com              # x client host
 
 
-192.168.1.100		    server.scu611.edu.cn
-192.168.1.100		    media.scu611.edu.cn
-192.168.1.100		    changepassword.scu611.edu.cn
-192.168.1.100		    test.scu611.edu.cn
-192.168.1.100		    www.scu611.edu.cn
-192.168.1.100		    phpadmin.scu611.edu.cn
-192.168.1.100		    wordpress.scu611.edu.cn
-192.168.1.100		    db.scu611.edu.cn
+192.168.137.1		    server.scu611.edu.cn
+192.168.137.1		    media.scu611.edu.cn
+192.168.137.1		    changepassword.scu611.edu.cn
+192.168.137.1		    test.scu611.edu.cn
+192.168.137.1		    www.scu611.edu.cn
+192.168.137.1		    phpadmin.scu611.edu.cn
+192.168.137.1		    wordpress.scu611.edu.cn
+192.168.137.1		    db.scu611.edu.cn
+
+202.115.53.47		    server.scu611.edu.cn
+202.115.53.47		    media.scu611.edu.cn
+202.115.53.47		    changepassword.scu611.edu.cn
+202.115.53.47		    test.scu611.edu.cn
+202.115.53.47		    www.scu611.edu.cn
+202.115.53.47		    phpadmin.scu611.edu.cn
+202.115.53.47		    wordpress.scu611.edu.cn
+202.115.53.47		    db.scu611.edu.cn
 
 
 127.0.0.1 localhost
