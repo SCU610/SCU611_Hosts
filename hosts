@@ -34,6 +34,7 @@
 192.168.137.102     VM-WinXp-Dev02.scu611.edu.cn
 192.168.137.103     VM-WinXp-Dev03.scu611.edu.cn
 
+
 127.0.0.1 localhost
 ::1 localhost ip6-localhost ip6-loopback
 
@@ -144,7 +145,7 @@
 2404:6800:4005:805::200e googletagmanager.com
 2404:6800:4005:805::200e www.googletagmanager.com #www-googletagmanager.l.google.com
 
-## �ȸ�����
+## 谷歌香港
 2404:6800:4008:c04::5e google.com.hk
 2404:6800:4008:c06::c7 www.google.com.hk
 2404:6800:4008:c07::5e accounts.google.com.hk #accounts-cctld.l.google.com
@@ -158,7 +159,7 @@
 2404:6800:4008:c06::5b picasaweb.google.com.hk #picasaweb.google.com
 2404:6800:4008:c03::69 www.googlechinawebmaster.com
 
-## �ȸ��й�
+## 谷歌中国
 2404:6800:4008:c04::a0 g.cn
 2404:6800:4008:c06::a0 google.cn
 2404:6800:4008:c05::a0 www.google.cn
@@ -171,16 +172,16 @@
 2404:6800:4008:c00::a0 265.com
 2404:6800:4005:800::2003 services.googleapis.cn
 
-## Google ̨��
+## Google 台湾
 2404:6800:4008:c07::5e www.google.com.tw
 2404:6800:4008:c02::5e clients1.google.com.tw #clients-cctld.l.google.com
 2404:6800:4008:c00::88 picasaweb.google.com.tw #picasaweb.google.com
 
-## Google �ձ�
+## Google 日本
 2404:6800:4008:c06::5e www.google.co.jp
 2404:6800:4008:c05::8b ipv6.google.co.jp #ipv6.google.com
 
-## ����
+## 其他
 2404:6800:4008:c07::5e www.google.ae
 2404:6800:4008:c00::5e www.google.com.ar
 2404:6800:4008:c02::5e www.google.at
@@ -220,7 +221,7 @@
 2404:6800:4008:c06::5e www.google.com.vn
 2404:6800:4008:c07::5e www.google.co.za
 
-## Google Apps ��ҵӦ���׼�
+## Google Apps 企业应用套件
 2404:6800:4008:c00::64 apps.google.com #www3.l.google.com
 2404:6800:4008:c06::79 ghs.google.com #ghs.l.google.com
 2404:6800:4008:c02::79 ghs46.google.com #ghs46.l.google.com
@@ -294,19 +295,19 @@
 2404:6800:4008:c06::8d www.thinkwithgoogle.com
 2404:6800:4008:c04::8b thinkwithgoogle.com
 
-## Answers/Guru/WenDa �ʴ����������ʰ���ֹͣ��Ӫ��
+## Answers/Guru/WenDa 问答社区（国际版已停止运营）
 2404:6800:4008:c05::64 answers.google.com #www3.l.google.com
 #2404:6800:4008:c00::62 guru.google.com
 2404:6800:4008:c05::63 guru.google.co.th #www2.l.google.com
 2404:6800:4008:c07::64 wenda.google.com.hk #wenda-china.l.google.com
 
-## Blog ��������
+## Blog 博客搜索
 2404:6800:4008:c07::67 blogsearch.google.com #www2.l.google.com
 2404:6800:4008:c02::63 blogsearch.google.com.hk #blogsearch.google.com
 2404:6800:4008:c07::68 blogsearch.google.com.tw #blogsearch.google.com
 2404:6800:4008:c06::a0 blogsearch.google.cn #www.google.cn
 
-## Blogger ���ͷ���
+## Blogger 博客服务
 2404:6800:4008:c07::bf www.blogger.com #blogger.l.google.com
 2404:6800:4008:c00::bf blogger.com
 2404:6800:4008:c05::bf blogger.google.com #www.blogger.com
@@ -331,7 +332,7 @@
 2404:6800:4008:c02::bf img2.blogblog.com #blogger.l.google.com
 2404:6800:4008:c07::79 www.textcube.com #ghs.google.com
 
-## Blogspot ���ͷ���
+## Blogspot 博客服务
 2404:6800:4008:c06::bf www.blogspot.com #blogger.l.google.com
 2404:6800:4008:c03::bf blogspot.com
 2404:6800:4008:c03::84 blogsofnote.blogspot.com #blogspot.l.googleusercontent.com
@@ -342,7 +343,7 @@
 2404:6800:4008:c03::84 4.bp.blogspot.com #photos-ugc.l.googleusercontent.com
 2404:6800:4008:c07::84 bloggertemplatespreview.blogspot.com #blogspot.l.googleusercontent.com
 
-## Google �ٷ�����Ⱥ
+## Google 官方博客群
 2404:6800:4008:c02::84 *.blogspot.com #blogspot.l.googleusercontent.com
 2404:6800:4008:c03::84 adwordsapi.blogspot.com #blogspot.l.googleusercontent.com
 2404:6800:4008:c03::84 adsense-zhs.blogspot.com #blogspot.l.googleusercontent.com
@@ -384,7 +385,7 @@
 2404:6800:4008:c07::84 youtube-global.blogspot.com #blogspot.l.googleusercontent.com
 2404:6800:4008:c04::84 developers.googleblog.com #blogspot.l.googleusercontent.com
 
-## Books ͼ��
+## Books 图书
 2404:6800:4008:c06::a0 books.google.cn #www.google.cn
 2404:6800:4008:c03::8b books.google.com #www3.l.google.com
 2404:6800:4008:c03::8b books.google.com.hk #books.google.com
@@ -412,14 +413,14 @@
 #2404:6800:4005:80b::2003 bks10.books.google.com.hk #books.google.com
 2404:6800:4008:c07::71 buzz.google.com #www3.l.google.com
 
-## Calendar ����
+## Calendar 日历
 2404:6800:4008:c04::8a calendar.google.com #www3.l.google.com
 
-## Checkout ����
+## Checkout 买家
 #2404:6800:4008:c00::73 checkout.google.com #checkout.l.google.com
 2404:6800:4008:c06::8a wallet.google.com
 
-## Chrome �ȸ�������
+## Chrome 谷歌浏览器
 2001:4860:4802:32::1b www.chrome.com
 2404:6800:4008:c07::8d developer.chrome.com #appspot.l.google.com
 2404:6800:4008:c06::65 chrome.google.com #www3.l.google.com
@@ -428,7 +429,7 @@
 2404:6800:4005:80a::2004 toolbarqueries.google.com.hk #toolbarqueries.google.com
 2404:6800:4008:c04::65 toolbarqueries.clients.google.com #clients.l.google.com
 
-## Chromium Chromium ��Ŀ
+## Chromium Chromium 项目
 2001:4860:4802:32::1b chromium.org
 2001:4860:4802:32::1b www.chromium.org
 2001:4860:4802:32::1b dev.chromium.org
@@ -437,10 +438,10 @@
 #2404:6800:4008:c00::79 codereview.chromium.org #ghs.l.google.com
 2404:6800:4012:1::2013 bugs.chromium.org
 
-## Chromium OS Chromium ����ϵͳ
+## Chromium OS Chromium 操作系统
 2404:6800:4008:c07::79 goto.ext.google.com #ghs.google.com
 
-## Code ����
+## Code 代码
 2404:6800:4008:c00::8b code.google.com #code.l.google.com
 2404:6800:4008:c02::52 *.googlecode.com #googlecode.l.googleusercontent.com
 2404:6800:4008:c07::52 chromium.googlecode.com #googlecode.l.googleusercontent.com
@@ -460,25 +461,29 @@
 2404:6800:4008:c04::52 swiftshader.googlesource.com #earth-api-samples.googlecode.com
 2404:6800:4008:c04::52 webrtc.googlesource.com #earth-api-samples.googlecode.com
 
-## Desktop ����
+## Desktop 桌面
 #2404:6800:4005:805::2004 desktop.google.com #desktop.l.google.com
 
-## Developers ������
+## Developers 开发者
 2404:6800:4008:c00::8b cloud.google.com #www3.l.google.com
 2404:6800:4008:801::200e console.cloud.google.com
 2404:6800:4008:c07::8b storage.cloud.google.com #www3.l.google.com
 2404:6800:4012:1::200e ssh.cloud.google.com
 2404:6800:4008:c07::66 developers.google.com #www3.l.google.com
+2607:f8b0:4000:80d::200a clouderrorreporting.clients6.google.com
+2607:f8b0:4007:804::200a cloudnotifications.clients6.google.com
 2404:6800:4008:c00::8b cloudssh.developers.google.com #www3.l.google.com
 2001:4860:4802:32::1b console.developers.google.com
 2404:6800:4008:c05::52 source.developers.google.com
 2404:6800:4012:1::200a cloudusersettings-pa.clients6.google.com
+2404:6800:4012:1::200a cloudconsole-pa.clients6.google.com
+2404:6800:4008:800::200a monitoring.clients6.google.com
 
-## Directory ��ҳĿ¼
+## Directory 网页目录
 2404:6800:4008:c05::8a directory.google.com #www3.l.google.com
 2404:6800:4008:c03::71 dir.google.com #directory.google.com
 
-## Docs �ĵ�
+## Docs 文档
 2404:6800:4008:c06::84 googledrive.com
 2404:6800:4008:c02::71 docs.google.com
 2404:6800:4008:c06::64 drive.google.com
@@ -568,30 +573,30 @@
 #2001:4860:4001:3::18 r19---sn-nwj7knel.c.docs.google.com #r19.sn-nwj7knel.c.docs.google.com
 #2001:4860:4001:3::19 r20---sn-nwj7knel.c.docs.google.com #r20.sn-nwj7knel.c.docs.google.com
 
-## Domains ����
+## Domains 域名
 2404:6800:4008:c06::71 domains.google.com
 
-## Download ����
+## Download 下载
 2404:6800:4005:805::200e dl.google.com #dl.l.google.com
 2404:6800:4008:c06::88 dl-ssl.google.com #dl-ssl.l.google.com
 
-## Google Earth ����
+## Google Earth 地球
 2404:6800:4008:c06::64 earth.google.com #www3.l.google.com
 2404:6800:4008:c03::65 auth.keyhole.com #geoauth.google.com
 2404:6800:4008:c07::64 geoauth.google.com #www3.l.google.com
 
-## Finance �ƾ�
+## Finance 财经
 2404:6800:4008:c03::64 finance.google.com #www3.l.google.com
 
-## Fusion RSS �ۺ�ָ��
+## Fusion RSS 聚合指南
 2404:6800:4008:c02::63 fusion.google.com #www2.l.google.com
 
-## Gmail ����
+## Gmail 邮箱
 2404:6800:4008:c04::12 mail.google.com #googlemail.l.google.com
 2404:6800:4008:c06::bd chatenabled.mail.google.com #b.googlemail.l.google.com
 2404:6800:4008:c07::bd filetransferenabled.mail.google.com #b.googlemail.l.google.com
 2404:6800:4008:c04::bd mail-settings.google.com #b.googlemail.l.google.com
-#2404:6800:4008:c00::62 talk.gmail.com #Gmail��Gtalk��������
+#2404:6800:4008:c00::62 talk.gmail.com #Gmail中Gtalk聊天服务
 2404:6800:4008:c04::65 gmail.google.com #www3.l.google.com
 2404:6800:4008:c06::53 www.gmail.com #mail.google.com
 2404:6800:4008:c04::53 gmail.com
@@ -609,7 +614,7 @@
 2404:6800:4008:c00::6d imap.gmail.com #gmail-imap.l.google.com
 2404:6800:4008:c06::10 imap.googlemail.com #googlemail-imap.l.google.com
 
-## Group ��̳
+## Group 论坛
 #2401:3800:c001::68 groups.google.cn
 2404:6800:4008:c06::64 groups.google.com #groups.l.google.com
 2404:6800:4008:c00::8b groups.google.com.hk #groups.google.com
@@ -618,10 +623,10 @@
 2404:6800:4008:c07::89 *.googlegroups.com #googlegroups.l.googleusercontent.com
 2404:6800:4008:c07::89 blob-s-docs.googlegroups.com #googlegroups.l.googleusercontent.com
 
-## Health ����
+## Health 健康
 2404:6800:4008:c06::65 health.google.com #www3.l.google.com
 
-## Images ͼƬ
+## Images 图片
 2404:6800:4008:c05::71 images.google.com #images.l.google.com
 2404:6800:4008:c06::71 images.google.com.hk #images.google.com
 2404:6800:4008:c07::93 tbn0.google.com #tbn.l.google.com
@@ -635,13 +640,13 @@
 ## Inbox
 2404:6800:4008:c07::53 inbox.google.com
 
-## Input Tools ���뷨
+## Input Tools 输入法
 2404:6800:4008:c03::76 inputtools.google.com #www4.l.google.com
 
-## Knol ���߰ٿ�ȫ��
+## Knol 在线百科全书
 2404:6800:4008:c07::64 knol.google.com #www3.l.google.com
 
-## Labs ʵ����
+## Labs 实验室
 2404:6800:4008:c04::64 labs.google.cn #www3.l.google.com
 2404:6800:4008:c03::65 labs.google.com #www3.l.google.com
 #2404:6800:4005:800::2011 www.googlelabs.com #appspot.l.google.com
@@ -669,10 +674,10 @@
 #2404:6800:4005:800::2011 swiffy.googlelabs.com #appspot.l.google.com
 #2404:6800:4005:800::2011 tables.googlelabs.com #appspot.l.google.com
 
-## Google Mars ���ǵ�ͼ
+## Google Mars 火星地图
 2404:6800:4008:c00::64 mars.google.com #www3.l.google.com
 
-## Maps ��ͼ
+## Maps 地图
 2404:6800:4008:c05::66 maps.google.com
 2404:6800:4008:c02::5e maps.google.com.hk #maps-cctld.l.google.com
 2404:6800:4008:c04::5e maps.google.com.tw #maps-cctld.l.google.com
@@ -725,19 +730,19 @@
 2404:6800:4005:805::200e maps.gstatic.cn #www.gstatic.cn
 2404:6800:4008:c04::8b mobilemaps.clients.google.com #clients.l.google.com
 
-## Music Beta by Google �����ַ���
+## Music Beta by Google 云音乐服务
 2404:6800:4008:c03::8b music.google.com #www3.l.google.com
 2404:6800:4008:c04::74 t.doc-0-0-sj.sj.googleusercontent.com #music-streaming.l.google.com
 2404:6800:4008:c07::84 music.googleusercontent.com #googlehosted.l.googleusercontent.com
 2404:6800:4008:c03::75 uploadsj.clients.google.com #large-uploads.l.google.com
 
-## News ��Ѷ
+## News 资讯
 2404:6800:4008:c06::66 news.google.com #news.l.google.com
 2404:6800:4008:c06::66 news.url.google.com #www3.l.google.com
 2404:6800:4008:c04::5e news.google.com.hk #news-cctld.l.google.com
 2404:6800:4008:c04::5e news.google.com.tw #news-cctld.l.google.com
 
-## Orkut ��������
+## Orkut 网络社区
 #2404:6800:4003:c00::55 www.orkut.com #orkut-fe.l.google.com
 2404:6800:4008:c06::84 www.orkut.gmodules.com #orkut-opensocial.l.googleusercontent.com
 2404:6800:4008:c03::84 *.a.orkut.gmodules.com #orkut-opensocial.l.googleusercontent.com
@@ -760,12 +765,12 @@
 #2404:6800:4008:c04::79 blog.orkut.com #ghs.google.com
 #2404:6800:4008:c04::79 en.blog.orkut.com #ghs.google.com
 
-## Pack ������ѡ
+## Pack 软件精选
 2404:6800:4008:c06::67 pack.google.com #www2.l.google.com
 2404:6800:4005:806::200e cache.pack.google.com #redirector.c.pack.google.com
 2404:6800:4008:c04::63 pack.google.cn #www2.l.google.com
 
-## Photo/Picasa ��Ƭ/��������
+## Photo/Picasa 照片/网络相册
 2404:6800:4008:c03::65 photos.google.com #picasaweb.l.google.com
 2404:6800:4008:c04::67 picasa.google.com #www2.l.google.com
 2404:6800:4008:c03::5b picasaweb.google.com #picasaweb.l.google.com
@@ -776,21 +781,21 @@
 2404:6800:4008:c00::64 lh6.google.com #lh2.l.google.com
 2404:6800:4008:c06::75 upload.photos.google.com #large-uploads.l.google.com
 
-## Profiles ������ҳ
+## Profiles 个人主页
 2404:6800:4008:c07::64 profiles.google.com
 2404:6800:4008:c07::64 plusone.google.com #plus.l.google.com
 2404:6800:4008:c02::65 plus.google.com #plus-china.l.google.com
-#2404:6800:4008:c00::8a plus.google.com.hk # URL �ض���
+#2404:6800:4008:c00::8a plus.google.com.hk # URL 重定向
 2404:6800:4008:c03::66 plus.url.google.com #www3.l.google.com
-#2404:6800:4008:c00::8a plus.url.google.com.hk #ʵ���ϲ����ڵ�����
+#2404:6800:4008:c00::8a plus.url.google.com.hk #实际上不存在的域名
 
-## Reader �Ķ���
+## Reader 阅读器
 2404:6800:4008:c07::67 reader.google.com #www2.l.google.com
 
 ## Research
 2404:6800:4008:c03::71 research.google.com #www3.l.google.com
 
-## SafeBrowing ��ȫ��������
+## SafeBrowing 安全检测服务
 2404:6800:4008:c04::be sb.google.com #sb.l.google.com
 2404:6800:4008:c03::5b sb-ssl.google.com #sb-ssl.l.google.com
 2404:6800:4008:c06::be safebrowsing.google.com #sb.l.google.com
@@ -798,23 +803,23 @@
 2404:6800:4008:c00::71 safebrowsing.clients.google.com #clients.l.google.com
 2404:6800:4008:c03::8a safebrowsing-cache.google.com #safebrowsing.cache.l.google.com
 
-## Sandbox ����ɳ��
+## Sandbox 服务沙盒
 2404:6800:4008:c03::451 sandbox.google.com #sandbox.l.google.com
 
-## Scholar ѧ������
+## Scholar 学术搜索
 2404:6800:4008:c06::be scholar.google.com
 2404:6800:4008:c06::be scholar.google.com.hk
 2404:6800:4008:c06::be scholar.google.com.tw
 2404:6800:4005:805::200e scholar.google.cn #www.google.cn
 
-## Sites Э��ƽ̨
+## Sites 协作平台
 2404:6800:4008:c06::65 sites.google.com #sites-china.l.google.com
 2404:6800:4008:c07::79 gsamplemaps.googlepages.com #ghs.googlehosted.com
 
-## SketchUp 3D ��ģ����
+## SketchUp 3D 建模工具
 #2404:6800:4008:c00::66 sketchup.google.com
 
-## Google Talk/Chat ����
+## Google Talk/Chat 聊天
 2404:6800:4008:c07::7d talk.google.com #talk.l.google.com
 #2404:6800:4008:c00::62 default.talk.google.com
 2404:6800:4008:c00::71 talkgadget.google.com #talkgadget.l.google.com
@@ -822,18 +827,21 @@
 #2404:6800:4008:c00::62 users.talk.google.com
 2404:6800:4008:c05::bc mtalk.google.com #mobile-gtalk.l.google.com
 
-## Tools ����
+## Tensorflow 主页
+2404:6800:4005:80d::200e www.tensorflow.org #www3-china.l.google.com
+
+## Tools 工具
 2404:6800:4008:c07::66 tools.google.com #tools.l.google.com
 2404:6800:4008:c02::8a toolbar.google.com #tools.l.google.com
 2404:6800:4008:c07::65 toolbar.google.com.hk #toolbar.google.com
 
-## Translate ����
+## Translate 翻译
 2404:6800:4008:c07::8b translate.google.com #www3.l.google.com
 2404:6800:4008:c03::5e translate.google.com.hk
 2404:6800:4008:c00::5e translate.google.com.tw
 2404:6800:4005:805::200e translate.google.cn #www.google.cn
 
-## Trends ����
+## Trends 趋势
 2404:6800:4008:c03::67 trends.google.com #www2.l.google.com
 2404:6800:4008:c02::a0 www.gvt0.cn
 2404:6800:4008:c07::a0 0.gvt0.cn #www.gvt0.cn
@@ -841,7 +849,7 @@
 2404:6800:4008:c07::a0 2.gvt0.cn #www.gvt0.cn
 2404:6800:4008:c05::a0 3.gvt0.cn #www.gvt0.cn
 
-## Wave ����
+## Wave 波浪
 2404:6800:4008:c03::76 wave.google.com #www4.l.google.com
 #2404:6800:4008:c00::76 wave0.google.com
 2404:6800:4008:c02::76 wave1.google.com #www4.l.google.com
@@ -850,7 +858,7 @@
 ## WiFi
 2404:6800:4008:c04::7b wifi.google.com
 
-## iGoogle Modules iGoogle С����
+## iGoogle Modules iGoogle 小工具
 2404:6800:4008:c02::68 gmodules.com
 2404:6800:4008:c06::84 www.gmodules.com #googlehosted.l.googleusercontent.com
 2404:6800:4008:c03::84 www.ig.gmodules.com #googlehosted.l.googleusercontent.com
@@ -874,7 +882,7 @@
 2404:6800:4008:c06::68 partnerpage.google.com #www2.l.google.com
 2404:6800:4008:c07::84 *.ig.ig.gmodules.com #googlehosted.l.googleusercontent.com
 
-## GGPht Google ͼƬ�洢
+## GGPht Google 图片存储
 2404:6800:4008:c07::84 geo0.ggpht.com
 2404:6800:4008:c03::84 geo1.ggpht.com
 2404:6800:4008:c06::84 geo2.ggpht.com
@@ -916,7 +924,7 @@
 2404:6800:4008:c03::84 gp5.googleusercontent.com #photos-ugc.l.googleusercontent.com
 2404:6800:4008:c04::84 gp6.googleusercontent.com #photos-ugc.l.googleusercontent.com
 
-## GStatic Google ��̬�ļ��洢
+## GStatic Google 静态文件存储
 2404:6800:4008:c07::5e gstatic.com
 2404:6800:4008:c07::5e accounts.gstatic.com
 2404:6800:4005:805::200e csi.gstatic.com #csi-china.l.google.com
@@ -948,7 +956,7 @@
 #2404:6800:4005:80b::2003 p5-klu7rokygdnwu-mst6xj5a4c7xsmqz-424575-i1-v6exp3-v4.metric.gstatic.com
 #2404:6800:4005:80b::2003 p5-klu7rokygdnwu-mst6xj5a4c7xsmqz-424575-s1-v6exp3-v4.metric.gstatic.com
 
-## Google APIs �����ӿڷ���
+## Google APIs 开发接口服务
 2404:6800:4008:c05::64 apis.google.com #plus.l.google.com
 2404:6800:4008:c05::64 chart.apis.google.com #clients.l.google.com
 2404:6800:4008:c03::63 googleapis.com
@@ -984,7 +992,7 @@
 2404:6800:4008:c06::5f datasaver.googleapis.com #googleapis.l.google.com
 2404:6800:4005:806::2003 update.googleapis.com
 
-## Google Hosted �йܷ���
+## Google Hosted 托管服务
 2404:6800:4008:c07::80 storage.googleapis.com #storage.l.googleusercontent.com
 2404:6800:4008:c03::80 commondatastorage.googleapis.com #storage.l.googleusercontent.com
 2404:6800:4008:c07::80 bucket.commondatastorage.googleapis.com #storage.l.googleusercontent.com
@@ -999,7 +1007,7 @@
 2404:6800:4008:c05::84 base4.googlehosted.com #googlehosted.l.googleusercontent.com
 2404:6800:4008:c07::84 base5.googlehosted.com #googlehosted.l.googleusercontent.com
 
-## Google��������
+## Google其他服务
 
 ## DoubleClick
 #2404:6800:4008:c00::94 ad.doubleclick.net #dart.l.doubleclick.net
@@ -1024,7 +1032,7 @@
 2404:6800:4005:805::200e www.googletagservices.com #pagead46.l.doubleclick.net
 2404:6800:4005:805::200e static.googleadsserving.cn #pagead46.l.doubleclick.net
 
-## Analytics ����
+## Analytics 分析
 2404:6800:4005:805::200e www.google-analytics.com #www-google-analytics.l.google.com
 2404:6800:4005:807::2008 ssl.google-analytics.com #ssl-google-analytics.l.google.com
 #2404:6800:4008:c00::61 *.google-analytics.com
@@ -1042,7 +1050,7 @@
 2404:6800:4008:c03::76 feeds2.feedburner.com #www4.l.google.com
 2404:6800:4008:c02::76 feedproxy.google.com #www4.l.google.com
 
-## The Go Programming Language Go ��������
+## The Go Programming Language Go 编程语言
 2a00:1450:400e:800::200e golang.org
 2a00:1450:400e:800::200e www.golang.org #golang.org
 2a00:1450:400e:800::200e blog.golang.org #golang.org
@@ -1050,17 +1058,17 @@
 #2404:6800:4005:800::2011 tip.golang.org #golang.org
 2a00:1450:400e:800::200e tour.golang.org #golang.org
 
-## Goo.gl Google����ַ����
+## Goo.gl Google短网址服务
 2404:6800:4008:c06::8b goo.gl
 2404:6800:4008:c04::8b g.co
 
-## html5rocks HTML5 �ƹ�ר����վ
+## html5rocks HTML5 推广专题网站
 2404:6800:4008:c07::79 www.html5rocks.com #ghs.google.com
 2404:6800:4008:c06::79 slides.html5rocks.com #ghs.google.com
 2404:6800:4008:c00::79 playground.html5rocks.com #ghs.google.com
 2404:6800:4008:c04::79 studio.html5rocks.com #ghs.google.com
 
-## Google.org Google ����
+## Google.org Google 公益
 2001:4860:4802:32::1b www.google.org
 2001:4860:4802:32::1b google.org
 2404:6800:4008:c03::79 blog.google.org #ghs.google.com
@@ -1074,16 +1082,16 @@
 #2404:6800:4008:c04::79 www.polymer-project.com #ghs.google.com
 #2404:6800:4008:c04::79 blog.polymer-project.com #ghs.google.com
 
-## Recaptcha ��֤������
+## Recaptcha 验证码服务
 2404:6800:4005:802::2003 www.recaptcha.net #www.l.google.com
 2404:6800:4008:c07::69 api.recaptcha.net #www.l.google.com
 2404:6800:4008:c03::68 api-secure.recaptcha.net #www.l.google.com
 2404:6800:4008:c02::93 mailhide.recaptcha.net #www.l.google.com
 
-## Google Wave Federation Protocol �� GWave Э�鿪Դ�ƻ�
+## Google Wave Federation Protocol · GWave 协议开源计划
 2404:6800:4008:c07::79 www.waveprotocol.org #ghs.l.google.com
 
-## The WebM Project WebM ���Ŷ�ý����Ŀ
+## The WebM Project WebM 开放多媒体项目
 2404:6800:4008:c02::6a webmproject.org
 2404:6800:4008:c05::8a www.webmproject.org #www3.l.google.com
 2404:6800:4008:c03::79 lists.webmproject.org #ghs.google.com
@@ -1093,25 +1101,25 @@
 ## AMP Project
 2404:6800:4005:805::200e cdn.ampproject.org
 
-## GoogleZip ����ѹ������
+## GoogleZip 数据压缩代理
 #2001:4860:4802:32::1d check.googlezip.net
 2404:6800:4008:c07::d3 compress.googlezip.net
 2404:6800:4008:c04::d3 proxy.googlezip.net
 2404:6800:4008:c07::d3 proxy-dev.googlezip.net
 
-## Chrome ����ר����վ
+## Chrome 相关专题网站
 #2404:6800:4005:80b::2003 www.chromercise.com #www3.l.google.com
 2404:6800:4008:c00::79 www.chromeexperiments.com #ghs.google.com
 2404:6800:4008:c07::79 www.20thingsilearned.com #ghs.google.com
 
-## IPv6 ר��
+## IPv6 专题
 #2404:6800:4008:c00::63 ipv6test.google.com #ipv6test.l.google.com
 #2404:6800:4008:c00::63 ipv4.google.com #ipv4.l.google.com
 2404:6800:4008:c00::93 ds.ipv6test.google.com #ds.ipv6test.l.google.com
 2404:6800:4008:c04::69 i2.ds.ipv6-exp.l.google.com
 #2607:f8b0:400e:c01::97 chrome.googleechotest.com #chromeecho.l.google.com
 
-## ����ר��վ
+## 其他专题站
 2404:6800:4008:c00::79 www.creativelab5.com #ghs.google.com
 2404:6800:4008:c03::71 www.data-vocabulary.org #www3.l.google.com
 2404:6800:4008:c07::8a www.googleinsidesearch.com #www3.l.google.com
@@ -1256,7 +1264,7 @@
 2404:6800:4008:c06::8a ytimg.l.google.com
 2404:6800:4008:c07::71 ytstatic.l.google.com
 
-## AdWords/AdSense ��������
+## AdWords/AdSense 广告服务
 #2404:6800:4008:c00::62 www.googlesyndication.com
 #2404:6800:4008:c00::9a www.googleadservices.com #pagead.l.doubleclick.net
 #2404:6800:4008:c00::9a domains.googlesyndication.com #pagead.l.doubleclick.net
@@ -1525,7 +1533,7 @@
 2404:6800:4005:805::200e v24.lscache7.c.googlesyndication.com
 2404:6800:4005:805::200e v24.lscache8.c.googlesyndication.com
 
-## Android Google �ƶ�����ϵͳ
+## Android Google 移动操作系统
 2404:6800:4008:c06::65 www.android.com #www3.l.google.com
 2404:6800:4008:c07::69 android.com
 2404:6800:4008:c04::65 connectivitycheck.android.com
@@ -2429,7 +2437,7 @@
 #2404:6800:4005:7::18 r19.hkg03s08.c.bigcache.googleapis.com
 #2404:6800:4005:7::19 r20.hkg03s08.c.bigcache.googleapis.com
 
-## GoogleUserContent �û��Զ�����Google���� googlehosted.l.googleusercontent.com
+## GoogleUserContent 用户自定义的Google服务 googlehosted.l.googleusercontent.com
 2404:6800:4008:c03::84 www.googleusercontent.com
 2404:6800:4008:c06::84 androidmarket.googleusercontent.com
 2404:6800:4008:c03::84 apidata.googleusercontent.com
@@ -2753,11 +2761,11 @@
 2404:6800:4008:c03::71 video-stats.video.google.com #video-stats.l.google.com
 2404:6800:4008:c02::be manifest.googlevideo.com
 
-## c.youtube.com��googlevideo.comָ����IP��ͬ
+## c.youtube.com和googlevideo.com指向的IP相同
 2404:6800:4005:805::200e redirector.googlevideo.com
 2404:6800:4005:805::200e redirector.gvt1.com
 
-## ������Ƶ bandaid-redirector.l.google.com
+## 公开视频 bandaid-redirector.l.google.com
 2404:6800:4005:805::200e v1.lscache1.googlevideo.com
 2404:6800:4005:805::200e v1.lscache2.googlevideo.com
 2404:6800:4005:805::200e v1.lscache3.googlevideo.com
@@ -2951,7 +2959,7 @@
 2404:6800:4005:805::200e v24.lscache7.googlevideo.com
 2404:6800:4005:806::200e v24.lscache8.googlevideo.com
 
-## nonxt ˽����Ƶ bandaid-redirector.l.google.com
+## nonxt 私密视频 bandaid-redirector.l.google.com
 2404:6800:4005:805::200e v1.nonxt1.googlevideo.com
 2404:6800:4005:805::200e v1.nonxt2.googlevideo.com
 2404:6800:4005:806::200e v1.nonxt3.googlevideo.com
@@ -3145,7 +3153,7 @@
 2404:6800:4005:805::200e v24.nonxt7.googlevideo.com
 2404:6800:4005:805::200e v24.nonxt8.googlevideo.com
 
-## δ���л���
+## 未命中缓存
 2404:6800:4005:805::200e v1.cache1.googlevideo.com
 2404:6800:4005:805::200e v1.cache2.googlevideo.com
 2404:6800:4005:804::200e v1.cache3.googlevideo.com
@@ -3211,7 +3219,7 @@
 2404:6800:4005:806::200e v8.cache7.googlevideo.com
 2404:6800:4005:805::200e v8.cache8.googlevideo.com
 
-## �����ض��� bandaid-redirector.l.google.com
+## 多次重定向 bandaid-redirector.l.google.com
 2404:6800:4005:805::200e tc.v1.cache1.googlevideo.com
 2404:6800:4005:805::200e tc.v1.cache2.googlevideo.com
 2404:6800:4005:805::200e tc.v1.cache3.googlevideo.com
@@ -3405,7 +3413,7 @@
 2404:6800:4005:805::200e tc.v24.cache7.googlevideo.com
 2404:6800:4005:804::200e tc.v24.cache8.googlevideo.com
 
-## ǰ׺�޶�
+## 前缀限定
 #2404:6800:4005:4::6 r1---hkg03s05.googlevideo.com
 #2404:6800:4005:4::7 r2---hkg03s05.googlevideo.com
 #2404:6800:4005:4::8 r3---hkg03s05.googlevideo.com
@@ -3889,7 +3897,7 @@
 #2404:6800:4008:9::18 r19---tpe05s10.googlevideo.com
 #2404:6800:4008:9::19 r20---tpe05s10.googlevideo.com
 
-## SN����
+## SN编码
 2001:298:604:102::c r1---sn-nvoxu-ioqd.googlevideo.com
 2001:298:604:102::d r2---sn-nvoxu-ioqd.googlevideo.com
 2001:298:604:102::e r3---sn-nvoxu-ioqd.googlevideo.com
@@ -24051,7 +24059,7 @@
 2c0f:fb50:4002:3::18 r19---sn-woc7en7d.googlevideo.com
 2c0f:fb50:4002:3::19 r20---sn-woc7en7d.googlevideo.com
 
-## Facebook ������
+## Facebook 脸谱网
 2a03:2880:f10d:183:face:b00c:0:25de facebook.com
 2a03:2880:f10d:183:face:b00c:0:25de www.facebook.com #star.c10r.facebook.com
 2a03:2880:f00d:110:face:b00c:0:2 edge-chat.facebook.com #star.c10r.facebook.com
@@ -24179,6 +24187,7 @@
 2a03:2880:f007:8:face:b00c:0:1 scontent-otp1-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-scl1-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-sea1-1.xx.fbcdn.net
+2a03:2880:f007:8:face:b00c:0:1 scontent-sin2-2.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-sin6-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-sin6-2.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-sit4-1.xx.fbcdn.net
@@ -24401,6 +24410,7 @@
 2a03:2880:f223:c4:face:b00c:0:43fe scontent-otp1-1.cdninstagram.com
 2a03:2880:f22e:c4:face:b00c:0:43fe scontent-scl1-1.cdninstagram.com
 2a03:2880:f201:c4:face:b00c:0:43fe scontent-sea1-1.cdninstagram.com
+2a03:2880:f20c:2c4:face:b00c:0:43fe scontent-sin2-2.cdninstagram.com
 2a03:2880:f20c:c4:face:b00c:0:43fe scontent-sin6-1.cdninstagram.com
 2a03:2880:f20c:2c4:face:b00c:0:43fe scontent-sin6-2.cdninstagram.com
 2a03:2880:f226:c4:face:b00c:0:43fe scontent-sit4-1.cdninstagram.com
@@ -24590,7 +24600,7 @@
 #2001:428:2001:302::3fe9:7e11 photos-g.ak.instagram.com #photos-g.ak.instagram.com.edgesuite.net
 #2600:1409:a::173b:be09 photos-h.ak.instagram.com #photos-h.ak.instagram.com.edgesuite.net
 
-## WikiMedia ά��ý��
+## WikiMedia 维基媒体
 #2620:0:860:2:21d:9ff:fe33:f235 static.wikipedia.org #hume.wikimedia.org
 #2620:0:860:2:21d:9ff:fe33:f235 hume.wikimedia.org
 2620:0:863:ed1a::1 download.wikimedia.org
@@ -24665,7 +24675,7 @@
 #2620:0:863:ed1a::1:c mobile-lb.ulsfo.wikimedia.org
 2620:0:863:ed1a::2:b upload-lb.ulsfo.wikimedia.org
 
-## WikiBooks ά���̿���
+## WikiBooks 维基教科书
 2620:0:863:ed1a::1 wikibooks.org
 2620:0:863:ed1a::1 www.wikibooks.org
 2620:0:863:ed1a::1 aa.wikibooks.org
@@ -24790,7 +24800,7 @@
 2620:0:863:ed1a::1 zh-min-nan.wikibooks.org
 2620:0:863:ed1a::1 zu.wikibooks.org
 
-## WikiNews ά������
+## WikiNews 维基新闻
 2620:0:863:ed1a::1 wikinews.org
 2620:0:863:ed1a::1 www.wikinews.org
 2620:0:863:ed1a::1 ar.wikinews.org
@@ -24827,7 +24837,7 @@
 2620:0:863:ed1a::1 uk.wikinews.org
 2620:0:863:ed1a::1 zh.wikinews.org
 
-## WikiPedia ά���ٿ�
+## WikiPedia 维基百科
 2620:0:863:ed1a::1 wikipedia.org
 2620:0:863:ed1a::1 www.wikipedia.org
 2620:0:863:ed1a::1 aa.wikipedia.org
@@ -25095,12 +25105,12 @@
 2620:0:863:ed1a::1 zh-yue.wikipedia.org
 2620:0:863:ed1a::1 zu.wikipedia.org
 
-## WikiPedia Mobile ά���ٿ��ƶ���
+## WikiPedia Mobile 维基百科移动版
 2620:0:863:ed1a::1 m.wikipedia.org
 2620:0:863:ed1a::1 en.m.wikipedia.org
 2620:0:863:ed1a::1 zh.m.wikipedia.org
 
-## WikiQuote ά����¼
+## WikiQuote 维基语录
 2620:0:863:ed1a::1 wikiquote.org
 2620:0:863:ed1a::1 www.wikiquote.org
 2620:0:863:ed1a::1 af.wikiquote.org
@@ -25192,7 +25202,7 @@
 2620:0:863:ed1a::1 zh.wikiquote.org
 2620:0:863:ed1a::1 zh-min-nan.wikiquote.org
 
-## WikiSource ά���Ŀ�
+## WikiSource 维基文库
 2620:0:863:ed1a::1 wikisource.org
 2620:0:863:ed1a::1 www.wikisource.org
 2620:0:863:ed1a::1 ang.wikisource.org
@@ -25256,7 +25266,7 @@
 2620:0:863:ed1a::1 zh.wikisource.org
 2620:0:863:ed1a::1 zh-min-nan.wikisource.org
 
-## Wiktionary ά���ʵ�
+## Wiktionary 维基词典
 2620:0:863:ed1a::1 wiktionary.org
 2620:0:863:ed1a::1 www.wiktionary.org
 2620:0:863:ed1a::1 aa.wiktionary.org
@@ -25430,7 +25440,7 @@
 2620:0:863:ed1a::1 zh-min-nan.wiktionary.org
 2620:0:863:ed1a::1 zu.wiktionary.org
 
-## Wikiversity ά��ѧԺ
+## Wikiversity 维基学院
 2620:0:863:ed1a::1 wikiversity.org
 2620:0:863:ed1a::1 www.wikiversity.org
 2620:0:863:ed1a::1 ar.wikiversity.org
@@ -25448,11 +25458,11 @@
 2620:0:863:ed1a::1 ru.wikiversity.org
 2620:0:863:ed1a::1 sv.wikiversity.org
 
-## Apple ƻ��
+## Apple 苹果
 #2001:428:4c02:48e::1aca www.apple.com #www.isg-apple.com.akadns.net
 
-## Blizzard Entertainment ��ѩ����
-2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
+## Blizzard Entertainment 暴雪娱乐
+#2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
 
 ## Gravatar
 #2606:2800:20d:1047:6cf:353:607:e8a www.gravatar.com #cs91.wac.edgecastcdn.net
@@ -25466,9 +25476,9 @@
 #2607:f128:47::1:1 www.plurk.com
 #2607:f128:47::1:1 ipv6.plurk.com
 
-## ����IPv6��վ
-## US ����
-## Easylistϵ��
+## 其他IPv6网站
+## US 美国
+## Easylist系列
 2a01:4f8:130:11ee::2 easylist-downloads.adblockplus.org
 
 ## LEDE Project
@@ -25495,6 +25505,42 @@
 #2620:101:8008:5::2:8 www.firefox.com #firefox.com
 #2620:101:8008:5::2:8 firefox.com
 
+## Microsoft 微软
+#2600:1406:3f:299::747 www.microsoft.com #e10088.dscb.akamaiedge.net
+#2600:1406:3f:299::2886 i.microsoft.com
+#2600:1406:3f:299::2886 i2.microsoft.com #i.microsoft.com.edgekey.net
+#2600:1406:3f:299::2886 i3.microsoft.com #i.microsoft.com.edgekey.net
+#2002:836b:9820::836b:9886 www.ipv6.microsoft.com
+#2600:1406:3f:299::e59 download.microsoft.com
+#2606:2800:11f:17a5:191a:18d5:537:22f9 software-download.microsoft.com #cs9.wpc.v0cdn.net
+#2606:2800:11f:17a5:191a:18d5:537:22f9 ajax.aspnetcdn.com #cs9.wpc.v0cdn.net
+#2606:2800:11f:7de:d31:7db:168f:1225 download.visualstudio.microsoft.com #cs10.wpc.v0cdn.net
+#2400:a980:ff:f9::2:3 download.windowsupdate.com #download.windowsupdate.com.bsgslb.cn
+#2400:a980:ff:f9::2:3 dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+#2400:a980:ff:f9::2:3 tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+#2400:a980:ff:f9::2:3 8.tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+#2400:a980:ff:f9::2:3 10.tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+#2620:1ec:c11::212 onedrive.live.com #skyweb.skyprod.akadns.net
+#157.55.109.232 skyapi.onedrive.live.com #odc-common-emea-meta-geo.onedrive.akadns.net
+#2620:1ec:c11::212 storage.live.com
+#2600:1406:3f:299::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
+#2620:1ec:c11::200 www.bing.com
+#2620:1ec:c11::200 www2.bing.com
+#2600:1406:3f:299::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
+#2620:1ec:c11::200 cn.bing.com
+#2620:1ec:c11::200 ssl.bing.com
+#2620:1ec:c11::200 global.bing.com
+#2a01:111:2003::200 api.bing.com
+#2a01:111:2003::200 bj1.api.bing.com
+#2a01:111:2003::200 tse1.mm.bing.net
+#2a01:111:2003::200 tse2.mm.bing.net
+#2a01:111:2003::200 tse3.mm.bing.net
+#2a01:111:2003::200 tse4.mm.bing.net
+#2a01:111:2003::200 tse1-mm.cn.bing.net
+#2a01:111:2003::200 tse2-mm.cn.bing.net
+#2a01:111:2003::200 tse3-mm.cn.bing.net
+#2a01:111:2003::200 tse4-mm.cn.bing.net
+#2600:1406:3f::17d7:6464 a248.e.akamai.net
 
 ## ARIN
 2001:500:4:c000::43 www.arin.net
@@ -25533,86 +25579,139 @@
 #2606:1f80:a000:100::5 mtc.cdn.vine.co
 
 ## Imgur
-#2a04:4e42:6::193 imgur.com
-2a04:4e42:6::193 www.imgur.com
-2a04:4e42:6::193 s.imgur.com
-2a04:4e42:6::193 i.imgur.com
-2a04:4e42:6::193 m.imgur.com
-2a04:4e42:6::193 p.imgur.com
-#2a04:4e42:6::193 api.imgur.com
+#2a04:4e42:2e::193 imgur.com
+2a04:4e42:2e::193 www.imgur.com
+2a04:4e42:2e::193 s.imgur.com
+2a04:4e42:2e::193 i.imgur.com
+2a04:4e42:2e::193 m.imgur.com
+2a04:4e42:2e::193 p.imgur.com
+#2a04:4e42:2e::193 api.imgur.com
 
 ## Steam
-#2600:1406:3:18b::3a7 api.steampowered.com
-#2600:1406:3:18b::3a7 support.steampowered.com
-#2001:e68:2005:1e::3a1b:5630 repo.steampowered.com
-#2001:e68:2005:1e::3a1b:5630 cdn.akamai.steamstatic.com
-#2001:e68:2005:1e::3a1b:5630 store.akamai.steamstatic.com
-#2001:e68:2005:1e::3a1b:5630 cdn.store.steampowered.com
-#2001:e68:2005:1e::3a1b:5630 cdn.steampowered.com
-#2001:e68:2005:1e::3a1b:5630 media.steampowered.com
-#2001:e68:2005:1e::3a1b:5630 media4.steampowered.com
-#2001:e68:2005:1e::3a1b:5630 content8.steampowered.com
-#2001:e68:2005:1e::3a1b:5630 cloud-3.steampowered.com
-#2001:e68:2005:1e::3a1b:5630 cloud-3.steamusercontent.com
-#2001:e68:2005:1e::3a1b:5630 images.akamai.steamusercontent.com
-#2001:e68:2005:1e::3a1b:5630 steamcdn-a.akamaihd.net
-#2001:e68:2005:1e::3a1b:5630 steamstore-a.akamaihd.net
-#2001:e68:2005:1e::3a1b:5630 steamcommunity-a.akamaihd.net
-2600:1406:3f:18b::3a7 steamcommunity.com
-#2001:e68:2005:1e::3a1b:5630 cdn.steamcommunity.com
-#2001:e68:2005:1e::3a1b:5630 store.valvesoftware.com
+#2600:1406:3f:299::3a7 api.steampowered.com
+#2600:1406:3f:299::3a7 support.steampowered.com
+#2600:1406:3f::17d7:6464 repo.steampowered.com
+#2600:1406:3f::17d7:6464 cdn.akamai.steamstatic.com
+#2600:1406:3f::17d7:6464 store.akamai.steamstatic.com
+#2600:1406:3f::17d7:6464 cdn.store.steampowered.com
+#2600:1406:3f::17d7:6464 cdn.steampowered.com
+#2600:1406:3f::17d7:6464 media.steampowered.com
+#2600:1406:3f::17d7:6464 media4.steampowered.com
+#2600:1406:3f::17d7:6464 content8.steampowered.com
+#2600:1406:3f::17d7:6464 cloud-3.steampowered.com
+#2600:1406:3f::17d7:6464 cloud-3.steamusercontent.com
+#2600:1406:3f::17d7:6464 images.akamai.steamusercontent.com
+#2600:1406:3f::17d7:6464 steamcdn-a.akamaihd.net
+#2600:1406:3f::17d7:6464 steamstore-a.akamaihd.net
+#2600:1406:3f::17d7:6464 steamcommunity-a.akamaihd.net
+#2600:1406:3f:299::3a7 steamcommunity.com
+#2600:1406:3f::17d7:6464 cdn.steamcommunity.com
+#2600:1406:3f::17d7:6464 store.valvesoftware.com
 
+## NVIDIA
+#2600:1406:3f:299::376 www.nvidia.com
+#2600:1406:3f:299::376 arg.nvidia.com
+#2600:1406:3f:299::376 blogs.nvidia.com
+#2600:1406:3f:299::376 br.nvidia.com
+#2600:1406:3f:299::376 chl.nvidia.com
+#2600:1406:3f:299::376 clm.nvidia.com
+#2600:1406:3f:299::376 research.nvidia.com
+#2600:1406:3f:299::376 ven.nvidia.com
+#2606:2800:21f:3aa:dcf:37b:1ed6:1fb images.nvidia.com
+#2600:1406:3f:299::a90 developer.nvidia.com
+#2600:1406:3f:299::778 www.nvidia.cn
+#2600:1406:3f:299::c8c blogs.nvidia.cn
+#2600:1406:3f::17d7:6464 cn.nvidia.com
+#2600:1406:3f:299::778 contests.nvidia.com
+#2600:1406:3f:299::778 services.gfe.nvidia.com
+#2606:2800:21f:150d:87d:2526:2d1:177d download-cdn.gfe.nvidia.com
+#2600:1406:3f:299::778 shield.nvidia.com
+#2606:2800:21f:3aa:dcf:37b:1ed6:1fb cn.download.nvidia.com
+#2606:2800:21f:3aa:dcf:37b:1ed6:1fb us.download.nvidia.com
+#2606:2800:21f:3aa:dcf:37b:1ed6:1fb international.download.nvidia.com
+#2606:2800:21f:3aa:dcf:37b:1ed6:1fb international-gfe.download.nvidia.com
+#2600:1406:3f:299::7b4 www.geforce.com
+#2600:1406:3f:299::7b4 gfwsl.geforce.com
+#2600:1406:3f::17d7:6464 www.geforce.cn
+#2600:1406:3f:299::c8c nfans.geforce.cn
+#2600:1406:3f::17d7:6464 www.tegrazone.com
+
+## AMD
+#2600:1406:3f:299::b51 www.amd.com
+#2600:1406:3f:299::554 community.amd.com
+#2600:1406:3f:299::2b39 ir.amd.com
+#2600:1406:3f:299::b51 shop.amd.com
+#2600:1406:3f:299::b51 support.amd.com
+#2600:1406:3f:299::1c7b download.amd.com
+#2600:1406:3f:299::1c7b www2.ati.com
+
+## Intel
+#2600:1406:3f:299::75 www.intel.cn
+#2600:1406:3f:299::b www.intel.com
+#2600:1406:3f:299::b ark.intel.com
+#2600:1406:3f:299::75 newsroom.intel.cn
+#2600:1406:3f:299::b corpredirect.intel.com
+#2600:1406:3f:299::b www-ssl.intel.com
+#2600:1406:3f:299::b communities.intel.com
+#2600:1406:3f:299::b downloadcenter.intel.com
+#2600:1406:3f:299::b downloadmirror.intel.com
+#2600:1406:3f:299::b engage.intel.com
+#2600:1406:3f:299::b iq.intel.com
+#2600:1406:3f:299::b newsroom.intel.com
+#2600:1406:3f:299::b software.intel.com
+#2600:1406:3f:299::ae6 embedded.communities.intel.com
+#2600:1406:3f:299::358a videocdn.intel.cn
 
 ## Coursera
 2600:9000:2012:: d3c33hcgiwev3.cloudfront.net
 2600:9000:2012:: d3njjcbhbojbot.cloudfront.net
 
 ## Reddit
-2a04:4e42:6::396 reddit.com
-2a04:4e42:6::396 www.reddit.com
-2a04:4e42:6::396 np.reddit.com
-2a04:4e42:6::396 old.reddit.com
-2a04:4e42:6::396 new.reddit.com
-2a04:4e42:6::396 pay.reddit.com
-2a04:4e42:6::396 ssl.reddit.com
-2a04:4e42:6::396 about.reddit.com
-2a04:4e42:6::396 m.reddit.com
-2a04:4e42:6::396 mod.reddit.com
-2a04:4e42:6::396 d.reddit.com
-2a04:4e42:6::396 e.reddit.com
-2a04:4e42:6::396 events.reddit.com
-2a04:4e42:6::396 buttons.reddit.com
-2a04:4e42:6::396 oauth.reddit.com
-2a04:4e42:6::396 gateway.reddit.com
-2a04:4e42:6::396 sendbird.reddit.com
-2a04:4e42:6::396 www.redditstatic.com
-2a04:4e42:6::396 www.redditmedia.com
-2a04:4e42:6::396 embed.redditmedia.com
-2a04:4e42:6::396 emoji.redditmedia.com
-2a04:4e42:6::396 styles.redditmedia.com
-2a04:4e42:6::396 g.redditmedia.com
-2a04:4e42:6::396 i.redditmedia.com
-2a04:4e42:6::396 s.redditmedia.com
-2a04:4e42:6::396 a.thumbs.redditmedia.com
-2a04:4e42:6::396 b.thumbs.redditmedia.com
-2a04:4e42:6::396 c.thumbs.redditmedia.com
-2a04:4e42:6::396 d.thumbs.redditmedia.com
-2a04:4e42:6::396 e.thumbs.redditmedia.com
-2a04:4e42:6::396 f.thumbs.redditmedia.com
-2a04:4e42:6::396 redd.it
-2a04:4e42:6::396 i.redd.it
-2a04:4e42:6::396 v.redd.it
-2a04:4e42:6::396 redditinc.com
-2a04:4e42:6::396 www.redditinc.com
-2a04:4e42:6::396 redditgifts.com
-2a04:4e42:6::396 www.redditgifts.com
-2a04:4e42:6::396 static.redditgifts.com
+2a04:4e42:2e::396 reddit.com
+2a04:4e42:2e::396 www.reddit.com
+2a04:4e42:2e::396 np.reddit.com
+2a04:4e42:2e::396 old.reddit.com
+2a04:4e42:2e::396 new.reddit.com
+2a04:4e42:2e::396 pay.reddit.com
+2a04:4e42:2e::396 ssl.reddit.com
+2a04:4e42:2e::396 about.reddit.com
+2a04:4e42:2e::396 m.reddit.com
+2a04:4e42:2e::396 mod.reddit.com
+2a04:4e42:2e::396 d.reddit.com
+2a04:4e42:2e::396 e.reddit.com
+2a04:4e42:2e::396 events.reddit.com
+2a04:4e42:2e::396 buttons.reddit.com
+2a04:4e42:2e::396 oauth.reddit.com
+2a04:4e42:2e::396 gateway.reddit.com
+2a04:4e42:2e::396 sendbird.reddit.com
+2a04:4e42:2e::396 www.redditstatic.com
+2a04:4e42:2e::396 www.redditmedia.com
+2a04:4e42:2e::396 embed.redditmedia.com
+2a04:4e42:2e::396 emoji.redditmedia.com
+2a04:4e42:2e::396 styles.redditmedia.com
+2a04:4e42:2e::396 g.redditmedia.com
+2a04:4e42:2e::396 i.redditmedia.com
+2a04:4e42:2e::396 s.redditmedia.com
+2a04:4e42:2e::396 a.thumbs.redditmedia.com
+2a04:4e42:2e::396 b.thumbs.redditmedia.com
+2a04:4e42:2e::396 c.thumbs.redditmedia.com
+2a04:4e42:2e::396 d.thumbs.redditmedia.com
+2a04:4e42:2e::396 e.thumbs.redditmedia.com
+2a04:4e42:2e::396 f.thumbs.redditmedia.com
+2a04:4e42:2e::396 redd.it
+2a04:4e42:2e::396 i.redd.it
+2a04:4e42:2e::396 v.redd.it
+2a04:4e42:2e::396 redditinc.com
+2a04:4e42:2e::396 www.redditinc.com
+2a04:4e42:2e::396 redditgifts.com
+2a04:4e42:2e::396 www.redditgifts.com
+2a04:4e42:2e::396 static.redditgifts.com
 2600:1fa0:80a0:81:34d8:c20b:: redditstatic.s3.amazonaws.com
 2600:1fa0:80a0:81:34d8:c20b:: redditgifts.s3.amazonaws.com
 2600:1fa0:80a0:81:34d8:c20b:: reddit-image.s3.amazonaws.com
 2600:9000:2012:: reddit-uploaded-media.s3-accelerate.amazonaws.com
 
-## AT �µ���
+## AT 奥地利
 ## Tor Project
 2001:6b0:5a:5000::5 torproject.org
 2001:41b8:202:deb:213:21ff:fe20:1426 www.torproject.org
@@ -25623,31 +25722,31 @@
 2620:0:6b0:b:1a1a:0:26e5:4810 atlas.torproject.org #www.torproject.org
 2a01:4f8:172:1b46:0:abba:14:1 svn.torproject.org #gayi.torproject.org
 
-## AU �Ĵ�����
+## AU 澳大利亚
 ## APNIC
 2400:cb00:2048:1::6814:3bc2 www.apnic.net
 2001:dd8:9:2::101:34 wq.apnic.net
 2001:dc0:2001:11::205 submit.apnic.net
 
-## FR ����
+## FR 法国
 2a01:e0d:1:3:58bf:fa02:c0de:5 videolan.org
 2a01:e0d:1:3:58bf:fa02:c0de:5 www.videolan.org #ganesh.videolan.org
 
-## JP �ձ�
-## JAIST �����ȶ˿�ѧ���g��ѧԺ��ѧ
+## JP 日本
+## JAIST 北陸先端科学技術大学院大学
 2001:df0:2ed:feed::feed ftp.jaist.ac.jp
 2001:df0:2ed:feed::feed jaist.dl.sourceforge.net
 
-## NL ����
+## NL 荷兰
 ## Ubuntu Archive
 2001:7b8:3:37::21:3 ipv6.torrent.ubuntu.com #ubuntuv6tracker.bit.nl
 2001:7b8:3:37::21:3 nl.archive.ubuntu.com #ubuntuarchive.bit.nl
 
-## PA ������
+## PA 巴拿马
 2400:cb00:2048:1::681b:d41e bitsnoop.com
 
-## IPv6/IPv4 ת������
-## DNS64 ��������
+## IPv6/IPv4 转换代理
+## DNS64 服务器：
 #2001:778::37 dns64.litnet.lt
 
 ## Telegram
@@ -25679,71 +25778,71 @@
 2400:cb00:2048:1::6810:7891 cdn-images-1.medium.com
 2400:cb00:2048:1::6810:7891 cdn-images-2.medium.com
 
-## Pinterest Start
-2a04:4e42:6::84 pinterest.com
-2a04:4e42:6::84 www.pinterest.com
-2a04:4e42:6::84 about.pinterest.com
-2a04:4e42:6::84 blog.pinterest.com
-2a04:4e42:6::84 ads.pinterest.com
-2a04:4e42:6::84 analytics.pinterest.com
-2a04:4e42:6::84 br.pinterest.com
-2a04:4e42:6::84 business.pinterest.com
-2a04:4e42:6::84 businessblog.pinterest.com
-2a04:4e42:6::84 canary.pinterest.com
-2a04:4e42:6::84 cz.pinterest.com
-2a04:4e42:6::84 de.pinterest.com
-2a04:4e42:6::84 dk.pinterest.com
-2a04:4e42:6::84 es.pinterest.com
-2a04:4e42:6::84 fi.pinterest.com
-2a04:4e42:6::84 fr.pinterest.com
-2a04:4e42:6::84 gb.pinterest.com
-2a04:4e42:6::84 gr.pinterest.com
-2a04:4e42:6::84 help.pinterest.com
-2a04:4e42:6::84 hu.pinterest.com
-2a04:4e42:6::84 id.pinterest.com
-2a04:4e42:6::84 in.pinterest.com
-2a04:4e42:6::84 it.pinterest.com
-2a04:4e42:6::84 jp.pinterest.com
-2a04:4e42:6::84 kr.pinterest.com
-2a04:4e42:6::84 m.pinterest.com
-2a04:4e42:6::84 media-cache-ec0.pinterest.com
-2a04:4e42:6::84 pl.pinterest.com
-2a04:4e42:6::84 pt.pinterest.com
-2a04:4e42:6::84 ro.pinterest.com
-2a04:4e42:6::84 ru.pinterest.com
-2a04:4e42:6::84 se.pinterest.com
-2a04:4e42:6::84 sk.pinterest.com
-2a04:4e42:6::84 tr.pinterest.com
-2a04:4e42:6::84 uk.about.pinterest.com
-2a04:4e42:6::84 uk.pinterest.com
-2a04:4e42:6::84 no.pinterest.com
-2a04:4e42:6::84 engineering.pinterest.com
-2a04:4e42:6::84 ak.pinterest.com
-2a04:4e42:6::84 api.pinterest.com
-2a04:4e42:6::84 nl.pinterest.com
-2a04:4e42:6::84 passets-cdn.pinterest.com
-2a04:4e42:6::84 www.pinterest.jp
-2a04:4e42:6::84 s.pinimg.com
-2a04:4e42:6::84 i.pinimg.com
-2a04:4e42:6::84 v.pinimg.com
-2600:1406:3f:200::1931 s-media-cache-ak0.pinimg.com
+## Pinterest
+2a04:4e42:2e::84 pinterest.com
+2a04:4e42:2e::84 www.pinterest.com
+2a04:4e42:2e::84 about.pinterest.com
+2a04:4e42:2e::84 blog.pinterest.com
+2a04:4e42:2e::84 ads.pinterest.com
+2a04:4e42:2e::84 analytics.pinterest.com
+2a04:4e42:2e::84 br.pinterest.com
+2a04:4e42:2e::84 business.pinterest.com
+2a04:4e42:2e::84 businessblog.pinterest.com
+2a04:4e42:2e::84 canary.pinterest.com
+2a04:4e42:2e::84 cz.pinterest.com
+2a04:4e42:2e::84 de.pinterest.com
+2a04:4e42:2e::84 dk.pinterest.com
+2a04:4e42:2e::84 es.pinterest.com
+2a04:4e42:2e::84 fi.pinterest.com
+2a04:4e42:2e::84 fr.pinterest.com
+2a04:4e42:2e::84 gb.pinterest.com
+2a04:4e42:2e::84 gr.pinterest.com
+2a04:4e42:2e::84 help.pinterest.com
+2a04:4e42:2e::84 hu.pinterest.com
+2a04:4e42:2e::84 id.pinterest.com
+2a04:4e42:2e::84 in.pinterest.com
+2a04:4e42:2e::84 it.pinterest.com
+2a04:4e42:2e::84 jp.pinterest.com
+2a04:4e42:2e::84 kr.pinterest.com
+2a04:4e42:2e::84 m.pinterest.com
+2a04:4e42:2e::84 media-cache-ec0.pinterest.com
+2a04:4e42:2e::84 pl.pinterest.com
+2a04:4e42:2e::84 pt.pinterest.com
+2a04:4e42:2e::84 ro.pinterest.com
+2a04:4e42:2e::84 ru.pinterest.com
+2a04:4e42:2e::84 se.pinterest.com
+2a04:4e42:2e::84 sk.pinterest.com
+2a04:4e42:2e::84 tr.pinterest.com
+2a04:4e42:2e::84 uk.about.pinterest.com
+2a04:4e42:2e::84 uk.pinterest.com
+2a04:4e42:2e::84 no.pinterest.com
+2a04:4e42:2e::84 engineering.pinterest.com
+2a04:4e42:2e::84 ak.pinterest.com
+2a04:4e42:2e::84 api.pinterest.com
+2a04:4e42:2e::84 nl.pinterest.com
+2a04:4e42:2e::84 passets-cdn.pinterest.com
+2a04:4e42:2e::84 www.pinterest.jp
+2a04:4e42:2e::84 s.pinimg.com
+2a04:4e42:2e::84 i.pinimg.com
+2a04:4e42:2e::84 v.pinimg.com
+2600:1406:3f:299::1931 s-media-cache-ak0.pinimg.com
 
 ## BBC
-2a04:4e42:6::81 bbc.com
-2a04:4e42:6::81 www.bbc.com
-2a04:4e42:6::81 bbc.co.uk
-2a04:4e42:6::81 fig.bbc.co.uk
-2600:1406:3f:199::f33 emp.bbc.com
-2600:1406:3f:199::f33 www.bbc.co.uk
-2600:1406:3f:199::f33 emp.bbc.co.uk
-2600:1406:3f:199::f33 static.bbc.co.uk
-2600:1406:3f:199::f33 gel.files.bbci.co.uk
-2600:1406:3f:199::f33 ichef.bbci.co.uk
-2600:1406:3f:199::f33 mybbc-analytics.files.bbci.co.uk
-2600:1406:3f:199::f33 mybbc.files.bbci.co.uk
-2600:1406:3f:199::f33 nav.files.bbci.co.uk
-2600:1406:3f:199::f33 static.bbci.co.uk
-2600:1406:3f:199::f33 walter-producer-cdn.api.bbci.co.uk
+2a04:4e42:2e::81 bbc.com
+2a04:4e42:2e::81 www.bbc.com
+2a04:4e42:2e::81 bbc.co.uk
+2a04:4e42:2e::81 fig.bbc.co.uk
+2600:1406:3f:299::f33 emp.bbc.com
+2600:1406:3f:299::f33 www.bbc.co.uk
+2600:1406:3f:299::f33 emp.bbc.co.uk
+2600:1406:3f:299::f33 static.bbc.co.uk
+2600:1406:3f:299::f33 gel.files.bbci.co.uk
+2600:1406:3f:299::f33 ichef.bbci.co.uk
+2600:1406:3f:299::f33 mybbc-analytics.files.bbci.co.uk
+2600:1406:3f:299::f33 mybbc.files.bbci.co.uk
+2600:1406:3f:299::f33 nav.files.bbci.co.uk
+2600:1406:3f:299::f33 static.bbci.co.uk
+2600:1406:3f:299::f33 walter-producer-cdn.api.bbci.co.uk
 212.58.244.214 account.bbc.com
 77.72.118.213 sa.bbc.co.uk
 212.58.244.115 ssl.bbc.co.uk
@@ -25765,54 +25864,54 @@
 2600:9000:2012:: dka575ofm4ao0.cloudfront.net
 
 ## Quora
-2a04:4e42:6::258 www.quora.com
-2a04:4e42:6::258 de.quora.com
-2a04:4e42:6::258 debunkingdoomsday.quora.com
-2a04:4e42:6::258 drchoresny.quora.com
-2a04:4e42:6::258 engineering.quora.com
-2a04:4e42:6::258 es.quora.com
-2a04:4e42:6::258 fr.quora.com
-2a04:4e42:6::258 hi.quora.com
-2a04:4e42:6::258 id.quora.com
-2a04:4e42:6::258 it.quora.com
-2a04:4e42:6::258 jp.quora.com
-2a04:4e42:6::258 pt.quora.com
-2a04:4e42:6::258 qph.fs.quoracdn.net
-2a04:4e42:6::258 qsbr.fs.quoracdn.net
-2a04:4e42:6::258 qsf.fs.quoracdn.net
+2a04:4e42:2e::258 www.quora.com
+2a04:4e42:2e::258 de.quora.com
+2a04:4e42:2e::258 debunkingdoomsday.quora.com
+2a04:4e42:2e::258 drchoresny.quora.com
+2a04:4e42:2e::258 engineering.quora.com
+2a04:4e42:2e::258 es.quora.com
+2a04:4e42:2e::258 fr.quora.com
+2a04:4e42:2e::258 hi.quora.com
+2a04:4e42:2e::258 id.quora.com
+2a04:4e42:2e::258 it.quora.com
+2a04:4e42:2e::258 jp.quora.com
+2a04:4e42:2e::258 pt.quora.com
+2a04:4e42:2e::258 qph.fs.quoracdn.net
+2a04:4e42:2e::258 qsbr.fs.quoracdn.net
+2a04:4e42:2e::258 qsf.fs.quoracdn.net
 
 ## ABC.net.au
-2600:1406:3f:200::c59 www.abc.net.au
-2600:1406:3f:200::c59 about.abc.net.au
-2600:1406:3f:200::c59 api.abc.net.au
-2600:1406:3f:200::c59 api.iview.abc.net.au
-2600:1406:3f:200::c59 cdn.iview.abc.net.au
-2600:1406:3f:200::c59 education.abc.net.au
-2600:1406:3f:200::c59 iview.abc.net.au
-2600:1406:3f:200::c59 mobile.abc.net.au
-2600:1406:3f:200::c59 mylogin.abc.net.au
-2600:1406:3f:200::c59 open.abc.net.au
-2600:1406:3f:200::c59 radio.abc.net.au
-2600:1406:3f:200::c59 recommendations.abc.net.au
-2600:1406:3f:200::c59 res.abc.net.au
-2600:1406:3f:200::c59 search.abc.net.au
-2600:1406:3f:200::c59 content-gateway.abc-prod.net.au
-2600:1406:3f:200::c59 content-gateway.abc-prod.net.au
-2600:1406:3f:200::c59 program.abcradio.net.au
+2600:1406:3f:299::c59 www.abc.net.au
+2600:1406:3f:299::c59 about.abc.net.au
+2600:1406:3f:299::c59 api.abc.net.au
+2600:1406:3f:299::c59 api.iview.abc.net.au
+2600:1406:3f:299::c59 cdn.iview.abc.net.au
+2600:1406:3f:299::c59 education.abc.net.au
+2600:1406:3f:299::c59 iview.abc.net.au
+2600:1406:3f:299::c59 mobile.abc.net.au
+2600:1406:3f:299::c59 mylogin.abc.net.au
+2600:1406:3f:299::c59 open.abc.net.au
+2600:1406:3f:299::c59 radio.abc.net.au
+2600:1406:3f:299::c59 recommendations.abc.net.au
+2600:1406:3f:299::c59 res.abc.net.au
+2600:1406:3f:299::c59 search.abc.net.au
+2600:1406:3f:299::c59 content-gateway.abc-prod.net.au
+2600:1406:3f:299::c59 content-gateway.abc-prod.net.au
+2600:1406:3f:299::c59 program.abcradio.net.au
 2400:cb00:2048:1::6811:64d3 shop.abc.net.au
 2600:9000:2012:: login.abc.net.au
 2600:9000:2012:: resize.abcradio.net.au
-2600:1406:3f:298::208d cdns.au1.gigya.com
+2600:1406:3f:299::208d cdns.au1.gigya.com
 2406:daa0:c044:8:36e7:f90a:: abc-wcms-media-prod.s3-ap-southeast-2.amazonaws.com
 
 ## NY Times
-2a04:4e42:6::420 nytimes.com
-2a04:4e42:6::420 www.nytimes.com
-2a04:4e42:6::420 myaccount.nytimes.com
-2a04:4e42:6::420 up.nytimes.com
-2a04:4e42:6::420 graphics8.nytimes.com
-2a04:4e42:6::420 json8.nytimes.com
-2a04:4e42:6::420 typeface.nytimes.com
+2a04:4e42:2e::420 nytimes.com
+2a04:4e42:2e::420 www.nytimes.com
+2a04:4e42:2e::420 myaccount.nytimes.com
+2a04:4e42:2e::420 up.nytimes.com
+2a04:4e42:2e::420 graphics8.nytimes.com
+2a04:4e42:2e::420 json8.nytimes.com
+2a04:4e42:2e::420 typeface.nytimes.com
 151.101.0.164 cigsvc.nytimes.com
 2600:9000:2012:2c00:18:9b35:e940:93a1 cn.nytimes.com
 35.186.231.252 m.cn.nytimes.com
@@ -25830,22 +25929,25 @@
 2600:9000:2012:2c00:18:a95e:5140:93a1 m.cn.nytstyle.com
 54.249.25.75 sso.nytcn.me
 2600:9000:2012:c00:13:702f:a6c0:21 static.sxzhchina.com
-2a04:4e42:6::420 typeface.nyt.com
-2a04:4e42:6::420 vp.nyt.com
-2a04:4e42:6::420 a1.nyt.com
-2a04:4e42:6::420 s1.nyt.com
-2a04:4e42:6::420 i1.nyt.com
-2a04:4e42:6::420 static01.nyt.com
-2a04:4e42:6::420 static02.nyt.com
-2a04:4e42:6::420 js.nyt.com
-2a04:4e42:6::420 css.nyt.com
-2a04:4e42:6::420 int.nyt.com
+2a04:4e42:2e::420 typeface.nyt.com
+2a04:4e42:2e::420 vp.nyt.com
+2a04:4e42:2e::420 a1.nyt.com
+2a04:4e42:2e::420 s1.nyt.com
+2a04:4e42:2e::420 i1.nyt.com
+2a04:4e42:2e::420 static01.nyt.com
+2a04:4e42:2e::420 static02.nyt.com
+2a04:4e42:2e::420 js.nyt.com
+2a04:4e42:2e::420 css.nyt.com
+2a04:4e42:2e::420 int.nyt.com
 2600:9000:2012:4400:8:1cb7:c900:93a1 d1f1eryiqyjs0r.cloudfront.net
 2600:9000:2012:4400:8:1cb7:c900:93a1 d3lar09xbwlsge.cloudfront.net
 2600:9000:2012:4400:8:1cb7:c900:93a1 d3q1qj9jzsu8nw.cloudfront.net
 2600:9000:2012:4400:8:1cb7:c900:93a1 dc8xl0ndzn2cb.cloudfront.net
 
-
+## EA Games
+2600:1406:3f::17d7:6464 akamai.cdn.ea.com
+2001:1900:2380:d00::1fe lvlt.cdn.ea.com
+2600:1406:3f::17d7:6464 origin-a.akamaihd.net
 
 ## Dropbox
 2620:100:6017:1::a27d:201 www.dropbox.com #www.v.dropbox.com
@@ -25901,13 +26003,13 @@
 2406:2000:ec:a01::2002 s.yimg.com #s.gycs.b.yahoodns.net
 
 ## Vimeo
-2a04:4e42:6::217 vimeo.com
-2a04:4e42:6::217 api.vimeo.com
-2a04:4e42:6::217 www.vimeo.com
-2a04:4e42:6::217 player.vimeo.com
-2a04:4e42:6::621 i.vimeocdn.com
-2a04:4e42:6::621 f.vimeocdn.com
-2a04:4e42:6::249 vimeo-hp-videos.global.ssl.fastly.net
+2a04:4e42:2e::217 vimeo.com
+2a04:4e42:2e::217 api.vimeo.com
+2a04:4e42:2e::217 www.vimeo.com
+2a04:4e42:2e::217 player.vimeo.com
+2a04:4e42:2e::621 i.vimeocdn.com
+2a04:4e42:2e::621 f.vimeocdn.com
+2a04:4e42:2e::450 vimeo-hp-videos.global.ssl.fastly.net
 198.245.92.39 click.email.vimeo.com
 
 ## Geeksforgeeks
@@ -25975,175 +26077,173 @@
 151.101.0.238 static.squarespace.com #cs301.wpc.taucdn.net
 
 ## StackExchange/StackOverflow
-151.101.1.69 stackoverflow.com
-151.101.1.69 blog.stackoverflow.com
-151.101.1.69 es.stackoverflow.com
-151.101.1.69 ja.stackoverflow.com
-151.101.1.69 pt.stackoverflow.com
-151.101.1.69 ru.stackoverflow.com
-151.101.1.69 stackexchange.com
-151.101.1.69 academia.stackexchange.com
-151.101.1.69 android.stackexchange.com
-151.101.1.69 anime.stackexchange.com
-151.101.1.69 apple.stackexchange.com
-151.101.1.69 arduino.stackexchange.com
-151.101.1.69 area51.stackexchange.com
-151.101.1.69 astronomy.stackexchange.com
-151.101.1.69 aviation.stackexchange.com
-151.101.1.69 beer.stackexchange.com
-151.101.1.69 bicycles.stackexchange.com
-151.101.1.69 biology.stackexchange.com
-151.101.1.69 bitcoin.stackexchange.com
-151.101.1.69 blender.stackexchange.com
-151.101.1.69 boardgames.stackexchange.com
-151.101.1.69 bricks.stackexchange.com
-151.101.1.69 buddhism.stackexchange.com
-151.101.1.69 chemistry.stackexchange.com
-151.101.1.69 chess.stackexchange.com
-151.101.1.69 chinese.stackexchange.com
-151.101.1.69 christianity.stackexchange.com
-151.101.1.69 civicrm.stackexchange.com
-151.101.1.69 codegolf.stackexchange.com
-151.101.1.69 codereview.stackexchange.com
-151.101.1.69 coffee.stackexchange.com
-151.101.1.69 cogsci.stackexchange.com
-151.101.1.69 communitybuilding.stackexchange.com
-151.101.1.69 computergraphics.stackexchange.com
-151.101.1.69 cooking.stackexchange.com
-151.101.1.69 craftcms.stackexchange.com
-151.101.1.69 crypto.stackexchange.com
-151.101.1.69 cs.stackexchange.com
-151.101.1.69 cstheory.stackexchange.com
-151.101.1.69 datascience.stackexchange.com
-151.101.1.69 dba.stackexchange.com
-151.101.1.69 diy.stackexchange.com
-151.101.1.69 drupal.stackexchange.com
-151.101.1.69 dsp.stackexchange.com
-151.101.1.69 earthscience.stackexchange.com
-151.101.1.69 ebooks.stackexchange.com
-151.101.1.69 economics.stackexchange.com
-151.101.1.69 electronics.stackexchange.com
-151.101.1.69 elementaryos.stackexchange.com
-151.101.1.69 ell.stackexchange.com
-151.101.1.69 emacs.stackexchange.com
-151.101.1.69 engineering.stackexchange.com
-151.101.1.69 english.stackexchange.com
-151.101.1.69 expatriates.stackexchange.com
-151.101.1.69 expressionengine.stackexchange.com
-151.101.1.69 fitness.stackexchange.com
-151.101.1.69 freelancing.stackexchange.com
-151.101.1.69 french.stackexchange.com
-151.101.1.69 gamedev.stackexchange.com
-151.101.1.69 gaming.stackexchange.com
-151.101.1.69 gardening.stackexchange.com
-151.101.1.69 genealogy.stackexchange.com
-151.101.1.69 german.stackexchange.com
-151.101.1.69 gis.stackexchange.com
-151.101.1.69 graphicdesign.stackexchange.com
-151.101.1.69 ham.stackexchange.com
-151.101.1.69 hardwarerecs.stackexchange.com
-151.101.1.69 health.stackexchange.com
-151.101.1.69 hermeneutics.stackexchange.com
-151.101.1.69 hinduism.stackexchange.com
-151.101.1.69 history.stackexchange.com
-151.101.1.69 homebrew.stackexchange.com
-151.101.1.69 hsm.stackexchange.com
-151.101.1.69 islam.stackexchange.com
-151.101.1.69 italian.stackexchange.com
-151.101.1.69 japanese.stackexchange.com
-151.101.1.69 joomla.stackexchange.com
-151.101.1.69 judaism.stackexchange.com
-151.101.1.69 law.stackexchange.com
-151.101.1.69 lifehacks.stackexchange.com
-151.101.1.69 linguistics.stackexchange.com
-151.101.1.69 magento.stackexchange.com
-151.101.1.69 martialarts.stackexchange.com
-151.101.1.69 math.stackexchange.com
-151.101.1.69 matheducators.stackexchange.com
-151.101.1.69 mathematica.stackexchange.com
-151.101.1.69 mechanics.stackexchange.com
-151.101.1.69 meta.stackexchange.com
-151.101.1.69 meta.academia.stackexchange.com
-151.101.1.69 money.stackexchange.com
-151.101.1.69 movies.stackexchange.com
-151.101.1.69 music.stackexchange.com
-151.101.1.69 musicfans.stackexchange.com
-151.101.1.69 mythology.stackexchange.com
-151.101.1.69 networkengineering.stackexchange.com
-151.101.1.69 opendata.stackexchange.com
-151.101.1.69 opensource.stackexchange.com
-151.101.1.69 outdoors.stackexchange.com
-151.101.1.69 parenting.stackexchange.com
-151.101.1.69 patents.stackexchange.com
-151.101.1.69 pets.stackexchange.com
-151.101.1.69 philosophy.stackexchange.com
-151.101.1.69 photo.stackexchange.com
-151.101.1.69 physics.stackexchange.com
-151.101.1.69 pm.stackexchange.com
-151.101.1.69 poker.stackexchange.com
-151.101.1.69 politics.stackexchange.com
-151.101.1.69 portuguese.stackexchange.com
-151.101.193.69 productivity.stackexchange.com
-151.101.1.69 programmers.stackexchange.com
-151.101.1.69 puzzling.stackexchange.com
-151.101.1.69 quant.stackexchange.com
-151.101.1.69 raspberrypi.stackexchange.com
-151.101.129.69 reverseengineering.stackexchange.com
-151.101.1.69 robotics.stackexchange.com
-151.101.1.69 rpg.stackexchange.com
-151.101.1.69 rus.stackexchange.com
-151.101.1.69 russian.stackexchange.com
-151.101.1.69 salesforce.stackexchange.com
-151.101.1.69 scicomp.stackexchange.com
-151.101.129.69 scifi.stackexchange.com
-151.101.1.69 security.stackexchange.com
-151.101.1.69 sharepoint.stackexchange.com
-151.101.1.69 skeptics.stackexchange.com
-151.101.1.69 softwarerecs.stackexchange.com
-151.101.1.69 sound.stackexchange.com
-151.101.1.69 space.stackexchange.com
-151.101.1.69 spanish.stackexchange.com
-151.101.1.69 sports.stackexchange.com
-151.101.1.69 sqa.stackexchange.com
-151.101.1.69 startups.stackexchange.com
-151.101.1.69 stats.stackexchange.com
-151.101.1.69 sustainability.stackexchange.com
-151.101.1.69 tex.stackexchange.com
-151.101.1.69 tor.stackexchange.com
-151.101.1.69 travel.stackexchange.com
-151.101.1.69 tridion.stackexchange.com
-151.101.1.69 unix.stackexchange.com
-151.101.1.69 ux.stackexchange.com
-151.101.1.69 vi.stackexchange.com
-151.101.1.69 video.stackexchange.com
-151.101.1.69 webapps.stackexchange.com
-151.101.1.69 webmasters.stackexchange.com
-151.101.1.69 windowsphone.stackexchange.com
-151.101.1.69 woodworking.stackexchange.com
-151.101.1.69 wordpress.stackexchange.com
-151.101.1.69 workplace.stackexchange.com
-151.101.1.69 worldbuilding.stackexchange.com
-151.101.1.69 writers.stackexchange.com
+2a04:4e42:2e::325 stackoverflow.com
+2a04:4e42:2e::325 blog.stackoverflow.com
+2a04:4e42:2e::325 es.stackoverflow.com
+2a04:4e42:2e::325 ja.stackoverflow.com
+2a04:4e42:2e::325 pt.stackoverflow.com
+2a04:4e42:2e::325 ru.stackoverflow.com
+2a04:4e42:2e::325 stackexchange.com
+2a04:4e42:2e::325 academia.stackexchange.com
+2a04:4e42:2e::325 android.stackexchange.com
+2a04:4e42:2e::325 anime.stackexchange.com
+2a04:4e42:2e::325 apple.stackexchange.com
+2a04:4e42:2e::325 arduino.stackexchange.com
+2a04:4e42:2e::325 area51.stackexchange.com
+2a04:4e42:2e::325 astronomy.stackexchange.com
+2a04:4e42:2e::325 aviation.stackexchange.com
+2a04:4e42:2e::325 beer.stackexchange.com
+2a04:4e42:2e::325 bicycles.stackexchange.com
+2a04:4e42:2e::325 biology.stackexchange.com
+2a04:4e42:2e::325 bitcoin.stackexchange.com
+2a04:4e42:2e::325 blender.stackexchange.com
+2a04:4e42:2e::325 boardgames.stackexchange.com
+2a04:4e42:2e::325 bricks.stackexchange.com
+2a04:4e42:2e::325 buddhism.stackexchange.com
+2a04:4e42:2e::325 chemistry.stackexchange.com
+2a04:4e42:2e::325 chess.stackexchange.com
+2a04:4e42:2e::325 chinese.stackexchange.com
+2a04:4e42:2e::325 christianity.stackexchange.com
+2a04:4e42:2e::325 civicrm.stackexchange.com
+2a04:4e42:2e::325 codegolf.stackexchange.com
+2a04:4e42:2e::325 codereview.stackexchange.com
+2a04:4e42:2e::325 coffee.stackexchange.com
+2a04:4e42:2e::325 cogsci.stackexchange.com
+2a04:4e42:2e::325 communitybuilding.stackexchange.com
+2a04:4e42:2e::325 computergraphics.stackexchange.com
+2a04:4e42:2e::325 cooking.stackexchange.com
+2a04:4e42:2e::325 craftcms.stackexchange.com
+2a04:4e42:2e::325 crypto.stackexchange.com
+2a04:4e42:2e::325 cs.stackexchange.com
+2a04:4e42:2e::325 cstheory.stackexchange.com
+2a04:4e42:2e::325 datascience.stackexchange.com
+2a04:4e42:2e::325 dba.stackexchange.com
+2a04:4e42:2e::325 diy.stackexchange.com
+2a04:4e42:2e::325 drupal.stackexchange.com
+2a04:4e42:2e::325 dsp.stackexchange.com
+2a04:4e42:2e::325 earthscience.stackexchange.com
+2a04:4e42:2e::325 ebooks.stackexchange.com
+2a04:4e42:2e::325 economics.stackexchange.com
+2a04:4e42:2e::325 electronics.stackexchange.com
+2a04:4e42:2e::325 elementaryos.stackexchange.com
+2a04:4e42:2e::325 ell.stackexchange.com
+2a04:4e42:2e::325 emacs.stackexchange.com
+2a04:4e42:2e::325 engineering.stackexchange.com
+2a04:4e42:2e::325 english.stackexchange.com
+2a04:4e42:2e::325 expatriates.stackexchange.com
+2a04:4e42:2e::325 expressionengine.stackexchange.com
+2a04:4e42:2e::325 fitness.stackexchange.com
+2a04:4e42:2e::325 freelancing.stackexchange.com
+2a04:4e42:2e::325 french.stackexchange.com
+2a04:4e42:2e::325 gamedev.stackexchange.com
+2a04:4e42:2e::325 gaming.stackexchange.com
+2a04:4e42:2e::325 gardening.stackexchange.com
+2a04:4e42:2e::325 genealogy.stackexchange.com
+2a04:4e42:2e::325 german.stackexchange.com
+2a04:4e42:2e::325 gis.stackexchange.com
+2a04:4e42:2e::325 graphicdesign.stackexchange.com
+2a04:4e42:2e::325 ham.stackexchange.com
+2a04:4e42:2e::325 hardwarerecs.stackexchange.com
+2a04:4e42:2e::325 health.stackexchange.com
+2a04:4e42:2e::325 hermeneutics.stackexchange.com
+2a04:4e42:2e::325 hinduism.stackexchange.com
+2a04:4e42:2e::325 history.stackexchange.com
+2a04:4e42:2e::325 homebrew.stackexchange.com
+2a04:4e42:2e::325 hsm.stackexchange.com
+2a04:4e42:2e::325 islam.stackexchange.com
+2a04:4e42:2e::325 italian.stackexchange.com
+2a04:4e42:2e::325 japanese.stackexchange.com
+2a04:4e42:2e::325 joomla.stackexchange.com
+2a04:4e42:2e::325 judaism.stackexchange.com
+2a04:4e42:2e::325 law.stackexchange.com
+2a04:4e42:2e::325 lifehacks.stackexchange.com
+2a04:4e42:2e::325 linguistics.stackexchange.com
+2a04:4e42:2e::325 magento.stackexchange.com
+2a04:4e42:2e::325 martialarts.stackexchange.com
+2a04:4e42:2e::325 math.stackexchange.com
+2a04:4e42:2e::325 matheducators.stackexchange.com
+2a04:4e42:2e::325 mathematica.stackexchange.com
+2a04:4e42:2e::325 mechanics.stackexchange.com
+2a04:4e42:2e::325 meta.stackexchange.com
+2a04:4e42:2e::325 meta.academia.stackexchange.com
+2a04:4e42:2e::325 money.stackexchange.com
+2a04:4e42:2e::325 movies.stackexchange.com
+2a04:4e42:2e::325 music.stackexchange.com
+2a04:4e42:2e::325 musicfans.stackexchange.com
+2a04:4e42:2e::325 mythology.stackexchange.com
+2a04:4e42:2e::325 networkengineering.stackexchange.com
+2a04:4e42:2e::325 opendata.stackexchange.com
+2a04:4e42:2e::325 opensource.stackexchange.com
+2a04:4e42:2e::325 outdoors.stackexchange.com
+2a04:4e42:2e::325 parenting.stackexchange.com
+2a04:4e42:2e::325 patents.stackexchange.com
+2a04:4e42:2e::325 pets.stackexchange.com
+2a04:4e42:2e::325 philosophy.stackexchange.com
+2a04:4e42:2e::325 photo.stackexchange.com
+2a04:4e42:2e::325 physics.stackexchange.com
+2a04:4e42:2e::325 pm.stackexchange.com
+2a04:4e42:2e::325 poker.stackexchange.com
+2a04:4e42:2e::325 politics.stackexchange.com
+2a04:4e42:2e::325 portuguese.stackexchange.com
+2a04:4e42:2e::325 productivity.stackexchange.com
+2a04:4e42:2e::325 programmers.stackexchange.com
+2a04:4e42:2e::325 puzzling.stackexchange.com
+2a04:4e42:2e::325 quant.stackexchange.com
+2a04:4e42:2e::325 raspberrypi.stackexchange.com
+2a04:4e42:2e::325 reverseengineering.stackexchange.com
+2a04:4e42:2e::325 robotics.stackexchange.com
+2a04:4e42:2e::325 rpg.stackexchange.com
+2a04:4e42:2e::325 rus.stackexchange.com
+2a04:4e42:2e::325 russian.stackexchange.com
+2a04:4e42:2e::325 salesforce.stackexchange.com
+2a04:4e42:2e::325 scicomp.stackexchange.com
+2a04:4e42:2e::325 scifi.stackexchange.com
+2a04:4e42:2e::325 security.stackexchange.com
+2a04:4e42:2e::325 sharepoint.stackexchange.com
+2a04:4e42:2e::325 skeptics.stackexchange.com
+2a04:4e42:2e::325 softwarerecs.stackexchange.com
+2a04:4e42:2e::325 sound.stackexchange.com
+2a04:4e42:2e::325 space.stackexchange.com
+2a04:4e42:2e::325 spanish.stackexchange.com
+2a04:4e42:2e::325 sports.stackexchange.com
+2a04:4e42:2e::325 sqa.stackexchange.com
+2a04:4e42:2e::325 startups.stackexchange.com
+2a04:4e42:2e::325 stats.stackexchange.com
+2a04:4e42:2e::325 sustainability.stackexchange.com
+2a04:4e42:2e::325 tex.stackexchange.com
+2a04:4e42:2e::325 tor.stackexchange.com
+2a04:4e42:2e::325 travel.stackexchange.com
+2a04:4e42:2e::325 tridion.stackexchange.com
+2a04:4e42:2e::325 unix.stackexchange.com
+2a04:4e42:2e::325 ux.stackexchange.com
+2a04:4e42:2e::325 vi.stackexchange.com
+2a04:4e42:2e::325 video.stackexchange.com
+2a04:4e42:2e::325 webapps.stackexchange.com
+2a04:4e42:2e::325 webmasters.stackexchange.com
+2a04:4e42:2e::325 windowsphone.stackexchange.com
+2a04:4e42:2e::325 woodworking.stackexchange.com
+2a04:4e42:2e::325 wordpress.stackexchange.com
+2a04:4e42:2e::325 workplace.stackexchange.com
+2a04:4e42:2e::325 worldbuilding.stackexchange.com
+2a04:4e42:2e::325 writers.stackexchange.com
 198.252.206.16 sstatic.net
-151.101.1.69 cdn.sstatic.net
-151.101.1.69 cdn-careers.sstatic.net
-198.252.206.16 cdn-chat.sstatic.net
-198.252.206.26 cdn-prom.sstatic.net
-151.101.1.69 stackapps.com
-151.101.1.69 superuser.com
-151.101.1.69 askubuntu.com
-151.101.1.69 serverfault.com
-151.101.65.69 mathoverflow.net
+2a04:4e42:2e::325 cdn.sstatic.net
+2a04:4e42:2e::325 cdn-careers.sstatic.net
+2a04:4e42:2e::325 cdn-chat.sstatic.net
+2a04:4e42:2e::325 cdn-prom.sstatic.net
+2a04:4e42:2e::325 stackapps.com
+2a04:4e42:2e::325 superuser.com
+2a04:4e42:2e::325 askubuntu.com
+2a04:4e42:2e::325 serverfault.com
+2a04:4e42:2e::325 mathoverflow.net
 2400:cb00:2048:1::6818:1241 mathjax.org
 2400:cb00:2048:1::6818:1241 www.mathjax.org
 2400:cb00:2048:1::6818:1241 beta.mathjax.org
 2400:cb00:2048:1::6818:1341 cdn.mathjax.org
-104.16.109.18 i.stack.imgur.com
-50.19.112.208 s.stack.imgur.com
-50.19.112.208 stack.imgur.com
+2400:cb00:2048:1::6810:23 i.stack.imgur.com
 
 ## PasteBin
-104.20.209.21 pastebin.com
+2400:cb00:2048:1::6814:d115 pastebin.com
 
 ## Tumblr
 68.232.44.253 gs1.wac.edgecastcdn.net
