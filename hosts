@@ -20,6 +20,7 @@
 202.115.53.47		    phpadmin.scu611.edu.cn
 202.115.53.47		    wordpress.scu611.edu.cn
 202.115.53.47		    db.scu611.edu.cn
+202.115.53.47       gitlab.scu611.edu.cn
 
 192.168.137.1		    server.scu611.edu.cn
 192.168.137.1		    media.scu611.edu.cn
@@ -33,6 +34,7 @@
 192.168.137.101     VM-WinXp-Dev01.scu611.edu.cn
 192.168.137.102     VM-WinXp-Dev02.scu611.edu.cn
 192.168.137.103     VM-WinXp-Dev03.scu611.edu.cn
+192.168.137.120     gitlab.scu611.edu.cn
 
 
 127.0.0.1 localhost
