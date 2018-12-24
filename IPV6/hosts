@@ -12,6 +12,10 @@
 #      102.54.94.97     rhino.acme.com          # source server
 #       38.25.63.10     x.acme.com              # x client host
 
+127.0.0.1 localhost
+::1 localhost ip6-localhost ip6-loopback
+
+
 202.115.53.47		    server.scu611.edu.cn
 202.115.53.47		    media.scu611.edu.cn
 202.115.53.47		    changepassword.scu611.edu.cn
@@ -36,9 +40,6 @@
 192.168.137.103     VM-WinXp-Dev03.scu611.edu.cn
 192.168.137.120     gitlab.scu611.edu.cn
 
-
-127.0.0.1 localhost
-::1 localhost ip6-localhost ip6-loopback
 
 ## Google.com
 2001:4860:4860::8888 google-public-dns-a.google.com
