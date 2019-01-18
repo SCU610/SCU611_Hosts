@@ -24188,6 +24188,7 @@
 2a03:2880:f007:8:face:b00c:0:1 scontent-ort2-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-ort2-2.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-otp1-1.xx.fbcdn.net
+2a03:2880:f007:8:face:b00c:0:1 scontent-prg1-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-scl1-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-sea1-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-sin2-2.xx.fbcdn.net
@@ -24411,6 +24412,7 @@
 2a03:2880:f227:c4:face:b00c:0:43fe scontent-ort2-1.cdninstagram.com
 2a03:2880:f227:2c4:face:b00c:0:43fe scontent-ort2-2.cdninstagram.com
 2a03:2880:f223:c4:face:b00c:0:43fe scontent-otp1-1.cdninstagram.com
+2a03:2880:f223:c4:face:b00c:0:43fe scontent-prg1-1.cdninstagram.com
 2a03:2880:f22e:c4:face:b00c:0:43fe scontent-scl1-1.cdninstagram.com
 2a03:2880:f201:c4:face:b00c:0:43fe scontent-sea1-1.cdninstagram.com
 2a03:2880:f20c:2c4:face:b00c:0:43fe scontent-sin2-2.cdninstagram.com
@@ -25509,7 +25511,7 @@
 #2620:101:8008:5::2:8 firefox.com
 
 ## Microsoft 微软
-#2600:1406:3f:299::747 www.microsoft.com #e10088.dscb.akamaiedge.net
+#2600:1406:3f:299::356e www.microsoft.com #e10088.dscb.akamaiedge.net
 #2600:1406:3f:299::2886 i.microsoft.com
 #2600:1406:3f:299::2886 i2.microsoft.com #i.microsoft.com.edgekey.net
 #2600:1406:3f:299::2886 i3.microsoft.com #i.microsoft.com.edgekey.net
@@ -25518,18 +25520,19 @@
 #2606:2800:11f:17a5:191a:18d5:537:22f9 software-download.microsoft.com #cs9.wpc.v0cdn.net
 #2606:2800:11f:17a5:191a:18d5:537:22f9 ajax.aspnetcdn.com #cs9.wpc.v0cdn.net
 #2606:2800:11f:7de:d31:7db:168f:1225 download.visualstudio.microsoft.com #cs10.wpc.v0cdn.net
-#2400:a980:ff:f9::2:3 download.windowsupdate.com #download.windowsupdate.com.bsgslb.cn
-#2400:a980:ff:f9::2:3 dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
-#2400:a980:ff:f9::2:3 tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
-#2400:a980:ff:f9::2:3 8.tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
-#2400:a980:ff:f9::2:3 10.tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+#2400:a980:fd:6:11::14 download.windowsupdate.com #download.windowsupdate.com.bsgslb.cn
+#2400:a980:fd:6:11::14 dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+#2400:a980:fd:6:11::14 tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+#2400:a980:fd:6:11::14 8.tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+#2400:a980:fd:6:11::14 10.tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
 #2620:1ec:c11::212 onedrive.live.com #skyweb.skyprod.akadns.net
 #157.55.109.232 skyapi.onedrive.live.com #odc-common-emea-meta-geo.onedrive.akadns.net
 #2620:1ec:c11::212 storage.live.com
-#2600:1406:3f:299::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
+#2600:1406:3f:299::1c24 s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
+#2600:1406:3f:299::1c24 s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
+#2600:1406:3f:299::6bb officecdn.microsoft.com #e1723.dscd.akamaiedge.net
 #2620:1ec:c11::200 www.bing.com
 #2620:1ec:c11::200 www2.bing.com
-#2600:1406:3f:299::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
 #2620:1ec:c11::200 cn.bing.com
 #2620:1ec:c11::200 ssl.bing.com
 #2620:1ec:c11::200 global.bing.com
@@ -25544,6 +25547,7 @@
 #2a01:111:2003::200 tse3-mm.cn.bing.net
 #2a01:111:2003::200 tse4-mm.cn.bing.net
 #2600:1406:3f::17d7:6464 a248.e.akamai.net
+#2600:1417:8000::b81c:da83 img-s-msn-com.akamaized.net #a1834.dspg2.akamai.net
 
 ## ARIN
 2001:500:4:c000::43 www.arin.net
@@ -25594,7 +25598,7 @@
 #2600:1406:3f:299::3a7 api.steampowered.com
 #2600:1406:3f:299::3a7 support.steampowered.com
 #2600:1406:3f::17d7:6464 repo.steampowered.com
-#2600:1406:3f::17d7:6464 cdn.akamai.steamstatic.com
+2600:1406:3f::17d7:6464 cdn.akamai.steamstatic.com
 #2600:1406:3f::17d7:6464 store.akamai.steamstatic.com
 #2600:1406:3f::17d7:6464 cdn.store.steampowered.com
 #2600:1406:3f::17d7:6464 cdn.steampowered.com
@@ -25604,9 +25608,9 @@
 #2600:1406:3f::17d7:6464 cloud-3.steampowered.com
 #2600:1406:3f::17d7:6464 cloud-3.steamusercontent.com
 #2600:1406:3f::17d7:6464 images.akamai.steamusercontent.com
-#2600:1406:3f::17d7:6464 steamcdn-a.akamaihd.net
-#2600:1406:3f::17d7:6464 steamstore-a.akamaihd.net
-#2600:1406:3f::17d7:6464 steamcommunity-a.akamaihd.net
+2600:1406:3f::17d7:6464 steamcdn-a.akamaihd.net
+2600:1406:3f::17d7:6464 steamstore-a.akamaihd.net
+2600:1406:3f::17d7:6464 steamcommunity-a.akamaihd.net
 #2600:1406:3f:299::3a7 steamcommunity.com
 #2600:1406:3f::17d7:6464 cdn.steamcommunity.com
 #2600:1406:3f::17d7:6464 store.valvesoftware.com
@@ -25652,8 +25656,8 @@
 #2600:1406:3f:299::75 www.intel.cn
 #2600:1406:3f:299::b www.intel.com
 #2600:1406:3f:299::b ark.intel.com
-#2600:1406:3f:299::75 newsroom.intel.cn
 #2600:1406:3f:299::b corpredirect.intel.com
+#2600:1406:3f:299::75 newsroom.intel.cn
 #2600:1406:3f:299::b www-ssl.intel.com
 #2600:1406:3f:299::b communities.intel.com
 #2600:1406:3f:299::b downloadcenter.intel.com
@@ -25948,9 +25952,9 @@
 2600:9000:2012:4400:8:1cb7:c900:93a1 dc8xl0ndzn2cb.cloudfront.net
 
 ## EA Games
-2600:1406:3f::17d7:6464 akamai.cdn.ea.com
-2001:1900:2380:d00::1fe lvlt.cdn.ea.com
-2600:1406:3f::17d7:6464 origin-a.akamaihd.net
+#2600:1406:3f::17d7:6464 akamai.cdn.ea.com
+#2001:1900:2380:d00::1fe lvlt.cdn.ea.com
+#2600:1406:3f::17d7:6464 origin-a.akamaihd.net
 
 ## Dropbox
 2620:100:6017:1::a27d:201 www.dropbox.com #www.v.dropbox.com

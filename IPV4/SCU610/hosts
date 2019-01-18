@@ -1,0 +1,34 @@
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# 此hosts文件仅适用于从 Wi-Fi: SCU611_Internal 内网访问，若要在校园网上访问，
+# 请将下文所有以 192 开头的私有地址注释掉。校园网访问时可能由于端口被封等原因
+# 无法使用文件共享和打印服务。
+
+# Local Hosts 本地计算机
+127.0.0.1 localhost
+::1 localhost ip6-localhost ip6-loopback
+
+# 服务器校园网公共地址
+202.115.53.47		    server.scu611.edu.cn
+202.115.53.47		    media.scu611.edu.cn
+202.115.53.47		    changepassword.scu611.edu.cn
+202.115.53.47		    test.scu611.edu.cn
+202.115.53.47		    www.scu611.edu.cn
+202.115.53.47		    phpadmin.scu611.edu.cn
+202.115.53.47		    wordpress.scu611.edu.cn
+202.115.53.47		    db.scu611.edu.cn
+202.115.53.47       gitlab.scu611.edu.cn # https端口: 8848 SSH端口: 22
+
+# Custom Hosts 以下请填写自定义Hosts
