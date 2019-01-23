@@ -12,8 +12,7 @@
 #      102.54.94.97     rhino.acme.com          # source server
 #       38.25.63.10     x.acme.com              # x client host
 
-# 此hosts文件仅适用于从 Wi-Fi: SCU611_Internal 内网访问，若要在校园网上访问，
-# 请将下文所有以 192 开头的私有地址注释掉。校园网访问时可能由于端口被封等原因
+# 此hosts文件仅适用于纯ipv4的校园网访问。校园网访问时可能由于端口被封等原因
 # 无法使用文件共享和打印服务。
 
 # Local Hosts 本地计算机
@@ -29,6 +28,7 @@
 202.115.53.47		    phpadmin.scu611.edu.cn
 202.115.53.47		    wordpress.scu611.edu.cn
 202.115.53.47		    db.scu611.edu.cn
-202.115.53.47       gitlab.scu611.edu.cn # https端口: 8848 SSH端口: 22
+202.115.53.47       gitlab.scu611.edu.cn  # SSH: 22 HTTPS: 8848
+202.115.53.47       runner1.scu611.edu.cn  # SSH: 8822
 
 # Custom Hosts 以下请填写自定义Hosts

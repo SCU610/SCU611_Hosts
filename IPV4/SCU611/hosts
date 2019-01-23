@@ -13,7 +13,7 @@
 #       38.25.63.10     x.acme.com              # x client host
 
 # 此hosts文件仅适用于从 Wi-Fi: SCU611_Internal 内网访问，若要在校园网上访问，
-# 请将下文所有以 192 开头的私有地址注释掉。校园网访问时可能由于端口被封等原因
+# 请将下文所有以 192.168 开头的私有地址注释掉。校园网访问时可能由于端口被封等原因
 # 无法使用文件共享和打印服务。
 
 # Local Hosts 本地计算机
@@ -31,12 +31,15 @@
 192.168.137.1		    db.scu611.edu.cn
 
 # GitLab 虚拟机内网私有地址
-192.168.137.120     gitlab.scu611.edu.cn # https端口: 8848 SSH端口: 22
+192.168.137.120     gitlab.scu611.edu.cn # SSH: 22 HTTPS: 8848
 
 # Win XP 虚拟机内网私有地址
 192.168.137.101     VM-WinXp-Dev01.scu611.edu.cn
 192.168.137.102     VM-WinXp-Dev02.scu611.edu.cn
 192.168.137.103     VM-WinXp-Dev03.scu611.edu.cn
+
+# GitLab Runner 服务器内网私有地址
+192.168.1.120       runner1.scu611.edu.cn  # SSH: 22
 
 # 服务器校园网公共地址
 202.115.53.47		    server.scu611.edu.cn
@@ -47,6 +50,7 @@
 202.115.53.47		    phpadmin.scu611.edu.cn
 202.115.53.47		    wordpress.scu611.edu.cn
 202.115.53.47		    db.scu611.edu.cn
-202.115.53.47       gitlab.scu611.edu.cn # https端口: 8848 SSH端口: 22
+202.115.53.47       gitlab.scu611.edu.cn  # SSH: 22 HTTPS: 8848
+202.115.53.47       runner1.scu611.edu.cn  # SSH: 8822
 
 # Custom Hosts 以下请填写自定义Hosts
