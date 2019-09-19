@@ -28,24 +28,6 @@
 202.115.53.111		    phpadmin.scu611.edu.cn
 202.115.53.111		    wordpress.scu611.edu.cn
 202.115.53.111		    db.scu611.edu.cn
-202.115.53.111       gitlab.scu611.edu.cn  # SSH: 22 HTTPS: 8848
-202.115.53.111       runner1.scu611.edu.cn  # SSH: 8822
-
-# 192.168.137.1		    server.scu611.edu.cn
-# 192.168.137.1		    media.scu611.edu.cn
-# 192.168.137.1		    changepassword.scu611.edu.cn
-# 192.168.137.1		    test.scu611.edu.cn
-# 192.168.137.1		    www.scu611.edu.cn
-# 192.168.137.1		    phpadmin.scu611.edu.cn
-# 192.168.137.1		    wordpress.scu611.edu.cn
-# 192.168.137.1		    db.scu611.edu.cn
-
-# 192.168.137.101     VM-WinXp-Dev01.scu611.edu.cn
-# 192.168.137.102     VM-WinXp-Dev02.scu611.edu.cn
-# 192.168.137.103     VM-WinXp-Dev03.scu611.edu.cn
-# 192.168.137.120     gitlab.scu611.edu.cn
-
-# GFW 更新，原有 Google 的 ipv6 hosts 全部失效，予以删除
-
-
-# Custom Hosts 以下请填写自定义Hosts
+202.115.53.111		    youtrack.scu611.edu.cn
+202.115.53.111		    gitlab.scu611.edu.cn  # SSH: 22 HTTPS: 8848
+202.115.53.111		    runner1.scu611.edu.cn  # SSH: 8822

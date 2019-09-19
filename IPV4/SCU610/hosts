@@ -28,7 +28,8 @@
 202.115.53.111		    phpadmin.scu611.edu.cn
 202.115.53.111		    wordpress.scu611.edu.cn
 202.115.53.111		    db.scu611.edu.cn
-202.115.53.111       gitlab.scu611.edu.cn  # SSH: 22 HTTPS: 8848
-202.115.53.111       runner1.scu611.edu.cn  # SSH: 8822
+202.115.53.111		    youtrack.scu611.edu.cn
+202.115.53.111		    gitlab.scu611.edu.cn  # SSH: 22 HTTPS: 8848
+202.115.53.111		    runner1.scu611.edu.cn  # SSH: 8822
 
 # Custom Hosts 以下请填写自定义Hosts
