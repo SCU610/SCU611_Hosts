@@ -43,16 +43,16 @@
 192.168.1.120       runner1.scu611.edu.cn  # SSH: 22
 
 # 服务器校园网公共地址
-202.115.52.11		    server.scu611.edu.cn
-202.115.52.11		    media.scu611.edu.cn
-202.115.52.11		    changepassword.scu611.edu.cn
-202.115.52.11		    test.scu611.edu.cn
-202.115.52.11		    www.scu611.edu.cn
-202.115.52.11		    phpadmin.scu611.edu.cn
-202.115.52.11		    wordpress.scu611.edu.cn
-202.115.52.11		    db.scu611.edu.cn
-202.115.52.11		    youtrack.scu611.edu.cn
-202.115.52.11		    gitlab.scu611.edu.cn  # SSH: 22 HTTPS: 8848
-202.115.52.11		    runner1.scu611.edu.cn  # SSH: 8822
+202.115.52.4		    server.scu611.edu.cn
+202.115.52.4		    media.scu611.edu.cn
+202.115.52.4		    changepassword.scu611.edu.cn
+202.115.52.4		    test.scu611.edu.cn
+202.115.52.4		    www.scu611.edu.cn
+202.115.52.4		    phpadmin.scu611.edu.cn
+202.115.52.4		    wordpress.scu611.edu.cn
+202.115.52.4		    db.scu611.edu.cn
+202.115.52.4		    youtrack.scu611.edu.cn
+202.115.52.4		    gitlab.scu611.edu.cn  # SSH: 22 HTTPS: 8848
+202.115.52.4		    runner1.scu611.edu.cn  # SSH: 8822
 
 # Custom Hosts 以下请填写自定义Hosts
