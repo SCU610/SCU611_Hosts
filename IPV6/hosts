@@ -31,3 +31,4 @@
 202.115.52.46		    youtrack.scu611.edu.cn
 202.115.52.46		    gitlab.scu611.edu.cn  # SSH: 22 HTTPS: 8848
 202.115.52.46		    runner1.scu611.edu.cn  # SSH: 8822
+202.115.52.46		    jupyterlab.scu611.edu.cn  # PORT: 10000
