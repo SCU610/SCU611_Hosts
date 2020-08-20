@@ -32,3 +32,4 @@
 202.115.52.23		    gitlab.scu611.edu.cn  # SSH: 22 HTTPS: 8848
 202.115.52.23		    runner1.scu611.edu.cn  # SSH: 8822
 202.115.52.23		    jupyterlab.scu611.edu.cn  # PORT: 10000
+202.115.52.23		    centos8.scu611.edu.cn  # PORT: 9922

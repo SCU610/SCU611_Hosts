@@ -40,6 +40,9 @@
 192.168.137.102     VM-WinXp-Dev02.scu611.edu.cn
 192.168.137.103     VM-WinXp-Dev03.scu611.edu.cn
 
+# CentOS 8
+192.168.137.125     centos8.scu611.edu.cn
+
 # GitLab Runner 服务器内网私有地址
 192.168.1.120       runner1.scu611.edu.cn  # SSH: 22
 
