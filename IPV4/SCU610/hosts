@@ -33,6 +33,7 @@
 202.115.52.89		    runner1.scu611.edu.cn  # SSH: 8822
 202.115.52.89		    jupyterlab.scu611.edu.cn  # PORT: 10000
 202.115.52.89		    centos8.scu611.edu.cn  # PORT: 9922
+202.115.52.89		    router.scu611.edu.cn  # WEB PORT: 8443
 
 
 # Custom Hosts 以下请填写自定义Hosts
